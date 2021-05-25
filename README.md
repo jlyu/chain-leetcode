@@ -12,6 +12,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-05-25 14:33 | [#934 最短的桥](https://leetcode-cn.com/problems/shortest-bridge) | MEDIUM | 6 | 1 |
 | 2021-05-24 23:56 | [#1787 使所有区间的异或结果为零](https://leetcode-cn.com/problems/make-the-xor-of-all-segments-equal-to-zero) | HARD | 1 | 1 |
 | 2021-05-24 23:54 | [#1162 地图分析](https://leetcode-cn.com/problems/as-far-from-land-as-possible) | MEDIUM | 8 | **3** |
 | 2021-05-24 15:16 | [#664 奇怪的打印机](https://leetcode-cn.com/problems/strange-printer) | HARD | 1 | 1 |
