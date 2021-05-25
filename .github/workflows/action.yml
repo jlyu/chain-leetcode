@@ -3,7 +3,7 @@ name: 'GitHub LeetCode Bot'
 on:
   push:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '*/1440 * * * *'
 
 jobs:
   bot:
