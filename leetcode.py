@@ -125,7 +125,7 @@ def generate_markdown_text(response_data, session):
 
         # 获取一些必要的信息
         lastSubmittedAt = time.strftime("%Y-%m-%d %H:%M", time.localtime(sub_data['lastSubmittedAt']))
-        lastSubmittedAtUTC8 = time.strftime("%Y-%m-%d %H:%M", time.localtime(sub_data['lastSubmittedAt']) + datetime.timedelta(hours=8))  
+        lastSubmittedAtUTC8 = time.strftime("%Y-%m-%d %H:%M", time.localtime(sub_data['lastSubmittedAt'] + datetime.timedelta(hours=8)))  
         translatedTitle = "#{} {}".format(sub_data['frontendId'], sub_data['translatedTitle'])
         frontendId = sub_data['frontendId']
         difficulty = sub_data['difficulty']
