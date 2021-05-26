@@ -12,6 +12,9 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-05-26 16:04 | [#461 汉明距离](https://leetcode-cn.com/problems/hamming-distance) | EASY | 4 | **3** |
+| 2021-05-26 15:07 | [#743 网络延迟时间](https://leetcode-cn.com/problems/network-delay-time) | MEDIUM | 1 | 1 |
+| 2021-05-26 13:42 | [#1190 反转每对括号间的子串](https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses) | MEDIUM | 1 | 1 |
 | 2021-05-25 14:33 | [#934 最短的桥](https://leetcode-cn.com/problems/shortest-bridge) | MEDIUM | 6 | 1 |
 | 2021-05-24 23:56 | [#1787 使所有区间的异或结果为零](https://leetcode-cn.com/problems/make-the-xor-of-all-segments-equal-to-zero) | HARD | 1 | 1 |
 | 2021-05-24 23:54 | [#1162 地图分析](https://leetcode-cn.com/problems/as-far-from-land-as-possible) | MEDIUM | 8 | **3** |
@@ -258,7 +261,6 @@
 | 2020-02-12 10:04 | [#剑指 Offer 04 二维数组中的查找](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof) | MEDIUM | 1 | 1 |
 | 2020-02-12 10:02 | [#剑指 Offer 03 数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof) | EASY | 1 | 1 |
 | 2020-02-11 15:09 | [#96 不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees) | MEDIUM | 2 | **2** |
-| 2020-02-11 08:15 | [#461 汉明距离](https://leetcode-cn.com/problems/hamming-distance) | EASY | 3 | **2** |
 | 2020-02-11 08:04 | [#136 只出现一次的数字](https://leetcode-cn.com/problems/single-number) | EASY | 2 | **2** |
 | 2020-02-11 07:15 | [#3 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters) | MEDIUM | 6 | **2** |
 | 2020-02-11 06:54 | [#79 单词搜索](https://leetcode-cn.com/problems/word-search) | MEDIUM | 2 | **2** |
