@@ -123,7 +123,8 @@ def generate_markdown_text(response_data, session):
         print('{}/{}'.format(index + 1, len(response_data)))
 
         # 获取一些必要的信息
-        lastSubmittedAt = time.strftime("%Y-%m-%d %H:%M", sub_data['lastSubmittedAt'])
+        lastSubmittedAt = time.strftime("%Y-%m-%d %H:%M", time.localtime(sub_data['lastSubmittedAt']))
+        lastSubmittedAtUTC8 = time.strftime("%Y-%m-%d %H:%M", time.localtime(sub_data['lastSubmittedAt']) + datetime.timedelta(hours=8))  
         translatedTitle = "#{} {}".format(sub_data['frontendId'], sub_data['translatedTitle'])
         frontendId = sub_data['frontendId']
         difficulty = sub_data['difficulty']
@@ -155,7 +156,7 @@ def generate_markdown_text(response_data, session):
             count = str(count)
 
         # 更新Markdown文本
-        markdown_text += "| " + lastSubmittedAt + " | " + "[" + translatedTitle + "]" + "(" + url + ")" + " | " + difficulty + " | " + numSubmitted + " | " + count + " |" + "\n"
+        markdown_text += "| " + lastSubmittedAtUTC8 + " | " + "[" + translatedTitle + "]" + "(" + url + ")" + " | " + difficulty + " | " + numSubmitted + " | " + count + " |" + "\n"
 
 
     return markdown_text
