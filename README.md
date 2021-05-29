@@ -12,11 +12,14 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-05-30 00:42 | [#231 2 的幂](https://leetcode-cn.com/problems/power-of-two) | EASY | 2 | 1 |
+| 2021-05-30 00:25 | [#1387 将整数按权重排序](https://leetcode-cn.com/problems/sort-integers-by-the-power-value) | MEDIUM | 6 | 1 |
+| 2021-05-29 20:35 | [#23 合并K个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists) | HARD | 4 | **3** |
+| 2021-05-29 18:05 | [#215 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array) | MEDIUM | 4 | **3** |
+| 2021-05-29 18:03 | [#703 数据流中的第 K 大元素](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream) | EASY | 5 | **3** |
+| 2021-05-29 17:42 | [#692 前K个高频单词](https://leetcode-cn.com/problems/top-k-frequent-words) | MEDIUM | 6 | **3** |
 | 2021-05-29 00:53 | [#1074 元素和为目标值的子矩阵数量](https://leetcode-cn.com/problems/number-of-submatrices-that-sum-to-target) | HARD | 1 | 1 |
 | 2021-05-29 00:52 | [#477 汉明距离总和](https://leetcode-cn.com/problems/total-hamming-distance) | MEDIUM | 1 | 1 |
-| 2021-05-28 20:21 | [#692 前K个高频单词](https://leetcode-cn.com/problems/top-k-frequent-words) | MEDIUM | 5 | **2** |
-| 2021-05-28 15:44 | [#703 数据流中的第 K 大元素](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream) | EASY | 3 | **2** |
-| 2021-05-27 23:37 | [#215 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array) | MEDIUM | 3 | **2** |
 | 2021-05-27 00:04 | [#461 汉明距离](https://leetcode-cn.com/problems/hamming-distance) | EASY | 4 | **3** |
 | 2021-05-26 23:07 | [#743 网络延迟时间](https://leetcode-cn.com/problems/network-delay-time) | MEDIUM | 1 | 1 |
 | 2021-05-26 21:42 | [#1190 反转每对括号间的子串](https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses) | MEDIUM | 1 | 1 |
@@ -310,7 +313,6 @@
 | 2019-11-13 14:50 | [#33 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array) | MEDIUM | 4 | **2** |
 | 2019-11-12 14:46 | [#32 最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses) | HARD | 4 | 1 |
 | 2019-11-12 13:46 | [#31 下一个排列](https://leetcode-cn.com/problems/next-permutation) | MEDIUM | 1 | 1 |
-| 2019-11-12 13:29 | [#23 合并K个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists) | HARD | 2 | **2** |
 | 2019-11-08 17:25 | [#21 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists) | EASY | 2 | 1 |
 | 2019-11-08 16:17 | [#20 有效的括号](https://leetcode-cn.com/problems/valid-parentheses) | EASY | 3 | 1 |
 | 2019-11-08 15:08 | [#19 删除链表的倒数第 N 个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list) | MEDIUM | 4 | 1 |
