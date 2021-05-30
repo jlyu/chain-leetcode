@@ -12,6 +12,11 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-05-31 00:58 | [#26 删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array) | EASY | 3 | **2** |
+| 2021-05-31 00:08 | [#344 反转字符串](https://leetcode-cn.com/problems/reverse-string) | EASY | 1 | 1 |
+| 2021-05-30 17:13 | [#378 有序矩阵中第 K 小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix) | MEDIUM | 3 | 1 |
+| 2021-05-30 16:30 | [#973 最接近原点的 K 个点](https://leetcode-cn.com/problems/k-closest-points-to-origin) | MEDIUM | 3 | 1 |
+| 2021-05-30 15:51 | [#373 查找和最小的K对数字](https://leetcode-cn.com/problems/find-k-pairs-with-smallest-sums) | MEDIUM | 6 | 1 |
 | 2021-05-30 00:42 | [#231 2 的幂](https://leetcode-cn.com/problems/power-of-two) | EASY | 2 | 1 |
 | 2021-05-30 00:25 | [#1387 将整数按权重排序](https://leetcode-cn.com/problems/sort-integers-by-the-power-value) | MEDIUM | 6 | 1 |
 | 2021-05-29 20:35 | [#23 合并K个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists) | HARD | 4 | **3** |
@@ -116,7 +121,6 @@
 | 2021-04-20 23:56 | [#341 扁平化嵌套列表迭代器](https://leetcode-cn.com/problems/flatten-nested-list-iterator) | MEDIUM | 3 | **2** |
 | 2021-04-20 00:34 | [#28 实现 strStr()](https://leetcode-cn.com/problems/implement-strstr) | EASY | 1 | 1 |
 | 2021-04-19 21:53 | [#27 移除元素](https://leetcode-cn.com/problems/remove-element) | EASY | 1 | 1 |
-| 2021-04-18 13:44 | [#26 删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array) | EASY | 1 | 1 |
 | 2021-04-17 21:36 | [#220 存在重复元素 III](https://leetcode-cn.com/problems/contains-duplicate-iii) | MEDIUM | 1 | 1 |
 | 2021-04-16 10:27 | [#87 扰乱字符串](https://leetcode-cn.com/problems/scramble-string) | HARD | 1 | 1 |
 | 2021-04-15 21:01 | [#213 打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii) | MEDIUM | 3 | **2** |
