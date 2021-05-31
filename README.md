@@ -12,6 +12,10 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-05-31 14:21 | [#342 4的幂](https://leetcode-cn.com/problems/power-of-four) | EASY | 1 | 1 |
+| 2021-05-31 11:03 | [#283 移动零](https://leetcode-cn.com/problems/move-zeroes) | EASY | 10 | **2** |
+| 2021-05-31 07:30 | [#42 接雨水](https://leetcode-cn.com/problems/trapping-rain-water) | HARD | 4 | **3** |
+| 2021-05-31 07:06 | [#11 盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water) | MEDIUM | 2 | **2** |
 | 2021-05-31 00:58 | [#26 删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array) | EASY | 3 | **2** |
 | 2021-05-31 00:08 | [#344 反转字符串](https://leetcode-cn.com/problems/reverse-string) | EASY | 1 | 1 |
 | 2021-05-30 17:13 | [#378 有序矩阵中第 K 小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix) | MEDIUM | 3 | 1 |
@@ -247,7 +251,6 @@
 | 2020-04-10 21:42 | [#151 翻转字符串里的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string) | MEDIUM | 1 | 1 |
 | 2020-04-08 21:52 | [#剑指 Offer 13 机器人的运动范围](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof) | MEDIUM | 1 | 1 |
 | 2020-04-07 17:19 | [#面试题 01.07 旋转矩阵](https://leetcode-cn.com/problems/rotate-matrix-lcci) | MEDIUM | 1 | 1 |
-| 2020-04-04 20:42 | [#42 接雨水](https://leetcode-cn.com/problems/trapping-rain-water) | HARD | 2 | **2** |
 | 2020-04-03 22:58 | [#8 字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi) | MEDIUM | 1 | 1 |
 | 2020-04-02 19:58 | [#289 生命游戏](https://leetcode-cn.com/problems/game-of-life) | MEDIUM | 1 | 1 |
 | 2020-04-01 22:16 | [#1111 有效括号的嵌套深度](https://leetcode-cn.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings) | MEDIUM | 1 | 1 |
@@ -293,7 +296,6 @@
 | 2019-12-24 15:29 | [#347 前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements) | MEDIUM | 2 | 1 |
 | 2019-12-19 23:51 | [#309 最佳买卖股票时机含冷冻期](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown) | MEDIUM | 1 | 1 |
 | 2019-12-16 17:58 | [#287 寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number) | MEDIUM | 1 | 1 |
-| 2019-12-16 17:30 | [#283 移动零](https://leetcode-cn.com/problems/move-zeroes) | EASY | 7 | 1 |
 | 2019-12-15 18:09 | [#5 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring) | MEDIUM | 8 | **2** |
 | 2019-12-13 23:14 | [#240 搜索二维矩阵 II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii) | MEDIUM | 1 | 1 |
 | 2019-12-13 15:50 | [#238 除自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self) | MEDIUM | 1 | 1 |
@@ -321,7 +323,6 @@
 | 2019-11-08 16:17 | [#20 有效的括号](https://leetcode-cn.com/problems/valid-parentheses) | EASY | 3 | 1 |
 | 2019-11-08 15:08 | [#19 删除链表的倒数第 N 个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list) | MEDIUM | 4 | 1 |
 | 2019-11-06 16:14 | [#15 三数之和](https://leetcode-cn.com/problems/3sum) | MEDIUM | 4 | 1 |
-| 2019-11-06 14:46 | [#11 盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water) | MEDIUM | 1 | 1 |
 | 2019-11-05 15:02 | [#4 寻找两个正序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays) | HARD | 3 | 1 |
 | 2019-11-04 18:16 | [#2 两数相加](https://leetcode-cn.com/problems/add-two-numbers) | MEDIUM | 3 | 1 |
 | 2019-11-04 16:22 | [#1 两数之和](https://leetcode-cn.com/problems/two-sum) | EASY | 4 | 1 |
