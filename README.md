@@ -12,6 +12,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-06-01 21:29 | [#80 删除有序数组中的重复项 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii) | MEDIUM | 4 | **2** |
 | 2021-05-31 14:21 | [#342 4的幂](https://leetcode-cn.com/problems/power-of-four) | EASY | 1 | 1 |
 | 2021-05-31 11:03 | [#283 移动零](https://leetcode-cn.com/problems/move-zeroes) | EASY | 10 | **2** |
 | 2021-05-31 07:30 | [#42 接雨水](https://leetcode-cn.com/problems/trapping-rain-water) | HARD | 4 | **3** |
@@ -148,7 +149,6 @@
 | 2021-04-09 20:34 | [#154 寻找旋转排序数组中的最小值 II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii) | HARD | 1 | 1 |
 | 2021-04-08 20:48 | [#153 寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array) | MEDIUM | 1 | 1 |
 | 2021-04-07 21:47 | [#81 搜索旋转排序数组 II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii) | MEDIUM | 1 | 1 |
-| 2021-04-06 21:06 | [#80 删除有序数组中的重复项 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii) | MEDIUM | 1 | 1 |
 | 2021-04-05 20:52 | [#494 目标和](https://leetcode-cn.com/problems/target-sum) | MEDIUM | 4 | **2** |
 | 2021-04-05 12:43 | [#88 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array) | EASY | 2 | **2** |
 | 2021-04-05 10:30 | [#312 戳气球](https://leetcode-cn.com/problems/burst-balloons) | HARD | 6 | **2** |
