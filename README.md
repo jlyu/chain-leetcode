@@ -12,6 +12,8 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-06-02 21:42 | [#1744 你能在你最喜欢的那天吃到你最喜欢的糖果吗？](https://leetcode-cn.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day) | MEDIUM | 1 | 1 |
+| 2021-06-02 21:41 | [#523 连续的子数组和](https://leetcode-cn.com/problems/continuous-subarray-sum) | MEDIUM | 1 | 1 |
 | 2021-06-01 21:29 | [#80 删除有序数组中的重复项 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii) | MEDIUM | 4 | **2** |
 | 2021-05-31 14:21 | [#342 4的幂](https://leetcode-cn.com/problems/power-of-four) | EASY | 1 | 1 |
 | 2021-05-31 11:03 | [#283 移动零](https://leetcode-cn.com/problems/move-zeroes) | EASY | 10 | **2** |
