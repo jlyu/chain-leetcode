@@ -12,6 +12,10 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-06-03 23:46 | [#33 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array) | MEDIUM | 8 | **3** |
+| 2021-06-03 21:47 | [#34 在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array) | MEDIUM | 11 | **2** |
+| 2021-06-03 08:04 | [#525 连续数组](https://leetcode-cn.com/problems/contiguous-array) | MEDIUM | 1 | 1 |
+| 2021-06-03 08:01 | [#704 二分查找](https://leetcode-cn.com/problems/binary-search) | EASY | 1 | 1 |
 | 2021-06-02 21:42 | [#1744 你能在你最喜欢的那天吃到你最喜欢的糖果吗？](https://leetcode-cn.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day) | MEDIUM | 1 | 1 |
 | 2021-06-02 21:41 | [#523 连续的子数组和](https://leetcode-cn.com/problems/continuous-subarray-sum) | MEDIUM | 1 | 1 |
 | 2021-06-01 21:29 | [#80 删除有序数组中的重复项 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii) | MEDIUM | 4 | **2** |
@@ -317,8 +321,6 @@
 | 2019-11-20 21:30 | [#55 跳跃游戏](https://leetcode-cn.com/problems/jump-game) | MEDIUM | 1 | 1 |
 | 2019-11-20 16:18 | [#49 字母异位词分组](https://leetcode-cn.com/problems/group-anagrams) | MEDIUM | 9 | 1 |
 | 2019-11-19 21:45 | [#48 旋转图像](https://leetcode-cn.com/problems/rotate-image) | MEDIUM | 2 | 1 |
-| 2019-11-13 15:51 | [#34 在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array) | MEDIUM | 1 | 1 |
-| 2019-11-13 14:50 | [#33 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array) | MEDIUM | 4 | **2** |
 | 2019-11-12 14:46 | [#32 最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses) | HARD | 4 | 1 |
 | 2019-11-12 13:46 | [#31 下一个排列](https://leetcode-cn.com/problems/next-permutation) | MEDIUM | 1 | 1 |
 | 2019-11-08 17:25 | [#21 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists) | EASY | 2 | 1 |
