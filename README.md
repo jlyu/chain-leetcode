@@ -12,14 +12,17 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-06-07 23:58 | [#33 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array) | MEDIUM | 12 | **4** |
+| 2021-06-07 23:02 | [#374 猜数字大小](https://leetcode-cn.com/problems/guess-number-higher-or-lower) | EASY | 1 | 1 |
+| 2021-06-07 22:26 | [#69 x 的平方根](https://leetcode-cn.com/problems/sqrtx) | EASY | 1 | 1 |
+| 2021-06-07 22:03 | [#704 二分查找](https://leetcode-cn.com/problems/binary-search) | EASY | 5 | **2** |
+| 2021-06-07 18:47 | [#494 目标和](https://leetcode-cn.com/problems/target-sum) | MEDIUM | 5 | **3** |
 | 2021-06-06 14:01 | [#474 一和零](https://leetcode-cn.com/problems/ones-and-zeroes) | MEDIUM | 1 | 1 |
 | 2021-06-05 12:08 | [#203 移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements) | EASY | 2 | 1 |
 | 2021-06-04 21:39 | [#35 搜索插入位置](https://leetcode-cn.com/problems/search-insert-position) | EASY | 4 | 1 |
 | 2021-06-04 21:04 | [#160 相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists) | EASY | 3 | **2** |
-| 2021-06-03 23:46 | [#33 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array) | MEDIUM | 8 | **3** |
 | 2021-06-03 21:47 | [#34 在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array) | MEDIUM | 11 | **2** |
 | 2021-06-03 08:04 | [#525 连续数组](https://leetcode-cn.com/problems/contiguous-array) | MEDIUM | 1 | 1 |
-| 2021-06-03 08:01 | [#704 二分查找](https://leetcode-cn.com/problems/binary-search) | EASY | 1 | 1 |
 | 2021-06-02 21:42 | [#1744 你能在你最喜欢的那天吃到你最喜欢的糖果吗？](https://leetcode-cn.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day) | MEDIUM | 1 | 1 |
 | 2021-06-02 21:41 | [#523 连续的子数组和](https://leetcode-cn.com/problems/continuous-subarray-sum) | MEDIUM | 1 | 1 |
 | 2021-06-01 21:29 | [#80 删除有序数组中的重复项 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii) | MEDIUM | 4 | **2** |
@@ -159,7 +162,6 @@
 | 2021-04-09 20:34 | [#154 寻找旋转排序数组中的最小值 II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii) | HARD | 1 | 1 |
 | 2021-04-08 20:48 | [#153 寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array) | MEDIUM | 1 | 1 |
 | 2021-04-07 21:47 | [#81 搜索旋转排序数组 II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii) | MEDIUM | 1 | 1 |
-| 2021-04-05 20:52 | [#494 目标和](https://leetcode-cn.com/problems/target-sum) | MEDIUM | 4 | **2** |
 | 2021-04-05 12:43 | [#88 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array) | EASY | 2 | **2** |
 | 2021-04-05 10:30 | [#312 戳气球](https://leetcode-cn.com/problems/burst-balloons) | HARD | 6 | **2** |
 | 2021-04-04 22:20 | [#887 鸡蛋掉落](https://leetcode-cn.com/problems/super-egg-drop) | HARD | 10 | **2** |
