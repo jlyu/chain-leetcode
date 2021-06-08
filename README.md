@@ -12,6 +12,10 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-06-08 23:51 | [#153 寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array) | MEDIUM | 6 | **2** |
+| 2021-06-08 23:49 | [#1049 最后一块石头的重量 II](https://leetcode-cn.com/problems/last-stone-weight-ii) | MEDIUM | 1 | 1 |
+| 2021-06-08 08:17 | [#162 寻找峰值](https://leetcode-cn.com/problems/find-peak-element) | MEDIUM | 1 | 1 |
+| 2021-06-08 07:54 | [#278 第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version) | EASY | 1 | 1 |
 | 2021-06-07 23:58 | [#33 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array) | MEDIUM | 12 | **4** |
 | 2021-06-07 23:02 | [#374 猜数字大小](https://leetcode-cn.com/problems/guess-number-higher-or-lower) | EASY | 1 | 1 |
 | 2021-06-07 22:26 | [#69 x 的平方根](https://leetcode-cn.com/problems/sqrtx) | EASY | 1 | 1 |
@@ -160,7 +164,6 @@
 | 2021-04-10 18:21 | [#146 LRU 缓存机制](https://leetcode-cn.com/problems/lru-cache) | MEDIUM | 7 | **3** |
 | 2021-04-10 18:04 | [#263 丑数](https://leetcode-cn.com/problems/ugly-number) | EASY | 1 | 1 |
 | 2021-04-09 20:34 | [#154 寻找旋转排序数组中的最小值 II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii) | HARD | 1 | 1 |
-| 2021-04-08 20:48 | [#153 寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array) | MEDIUM | 1 | 1 |
 | 2021-04-07 21:47 | [#81 搜索旋转排序数组 II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii) | MEDIUM | 1 | 1 |
 | 2021-04-05 12:43 | [#88 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array) | EASY | 2 | **2** |
 | 2021-04-05 10:30 | [#312 戳气球](https://leetcode-cn.com/problems/burst-balloons) | HARD | 6 | **2** |
