@@ -12,6 +12,9 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-06-09 22:33 | [#141 环形链表](https://leetcode-cn.com/problems/linked-list-cycle) | EASY | 6 | **2** |
+| 2021-06-09 22:23 | [#237 删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list) | EASY | 1 | 1 |
+| 2021-06-09 21:26 | [#879 盈利计划](https://leetcode-cn.com/problems/profitable-schemes) | HARD | 1 | 1 |
 | 2021-06-08 23:51 | [#153 寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array) | MEDIUM | 6 | **2** |
 | 2021-06-08 23:49 | [#1049 最后一块石头的重量 II](https://leetcode-cn.com/problems/last-stone-weight-ii) | MEDIUM | 1 | 1 |
 | 2021-06-08 08:17 | [#162 寻找峰值](https://leetcode-cn.com/problems/find-peak-element) | MEDIUM | 1 | 1 |
@@ -220,7 +223,7 @@
 | 2021-02-10 20:49 | [#567 字符串的排列](https://leetcode-cn.com/problems/permutation-in-string) | MEDIUM | 1 | 1 |
 | 2021-02-09 10:30 | [#992 K 个不同整数的子数组](https://leetcode-cn.com/problems/subarrays-with-k-different-integers) | HARD | 1 | 1 |
 | 2021-02-08 13:40 | [#978 最长湍流子数组](https://leetcode-cn.com/problems/longest-turbulent-subarray) | MEDIUM | 2 | 1 |
-| 2021-02-07 19:33 | [#665 非递减数列](https://leetcode-cn.com/problems/non-decreasing-array) | EASY | 1 | 1 |
+| 2021-02-07 19:33 | [#665 非递减数列](https://leetcode-cn.com/problems/non-decreasing-array) | MEDIUM | 1 | 1 |
 | 2021-02-06 22:20 | [#1423 可获得的最大点数](https://leetcode-cn.com/problems/maximum-points-you-can-obtain-from-cards) | MEDIUM | 1 | 1 |
 | 2021-02-05 21:42 | [#1208 尽可能使字符串相等](https://leetcode-cn.com/problems/get-equal-substrings-within-budget) | MEDIUM | 3 | 1 |
 | 2021-02-04 22:16 | [#643 子数组最大平均数 I](https://leetcode-cn.com/problems/maximum-average-subarray-i) | EASY | 1 | 1 |
@@ -319,7 +322,6 @@
 | 2019-12-10 13:17 | [#139 单词拆分](https://leetcode-cn.com/problems/word-break) | MEDIUM | 2 | **2** |
 | 2019-12-09 18:18 | [#152 乘积最大子数组](https://leetcode-cn.com/problems/maximum-product-subarray) | MEDIUM | 2 | 1 |
 | 2019-12-06 17:45 | [#142 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii) | MEDIUM | 1 | 1 |
-| 2019-12-06 17:34 | [#141 环形链表](https://leetcode-cn.com/problems/linked-list-cycle) | EASY | 3 | 1 |
 | 2019-12-05 22:40 | [#128 最长连续序列](https://leetcode-cn.com/problems/longest-consecutive-sequence) | MEDIUM | 1 | 1 |
 | 2019-12-01 14:09 | [#105 从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) | MEDIUM | 1 | 1 |
 | 2019-11-27 17:56 | [#84 柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram) | HARD | 1 | 1 |
