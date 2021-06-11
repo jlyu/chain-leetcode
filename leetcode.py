@@ -116,7 +116,7 @@ def generate_markdown_text(response_data, session):
     markdown_text += "\n"
     markdown_text += "> 重刷次数的计算规则为: 累计所有提交通过且互为不同一天的记录次数\n"
     markdown_text += "\n"
-    markdown_text += "| 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |\n| ---- | ---- | ---- | ---- | ---- |\n"
+    markdown_text += "| 最近提交 | 题目 | 题目难度 | 提交 | 重刷 |\n| ---- | ---- | ---- | ---- | ---- |\n"
 
     for index, sub_data in enumerate(response_data):
 
@@ -126,7 +126,7 @@ def generate_markdown_text(response_data, session):
         # 获取一些必要的信息
         lastSubmittedAt = time.strftime("%Y-%m-%d %H:%M", time.localtime(sub_data['lastSubmittedAt']))
         lastSubmittedAtUTC8 = (datetime.datetime.strptime(lastSubmittedAt, "%Y-%m-%d %H:%M") + datetime.timedelta(hours=8)).strftime("%Y-%m-%d %H:%M")
-        #lastSubmittedAtUTC8 = time.strftime("%Y-%m-%d %H:%M", time.localtime(sub_data['lastSubmittedAt'] + datetime.timedelta(hours=8)))  
+        #lastSubmittedAtUTC8 = time.strftime("%Y-%m-%d %H:%M", time.localtime(sub_data['lastSubmittedAt'] + datetime.timedelta(hours=8)))
         translatedTitle = "#{} {}".format(sub_data['frontendId'], sub_data['translatedTitle'])
         frontendId = sub_data['frontendId']
         difficulty = sub_data['difficulty']
@@ -152,13 +152,15 @@ def generate_markdown_text(response_data, session):
 
         # 重刷次数
         count = len(submission_accepted_dict)
-        if count > 1:
+        if count >= 3:
             count = "**" + str(count) + "**"
         else:
             count = str(count)
 
+        difficultyMap = {"EASY":"★", "MEDIUM":"★★", "HARD":"★★★"}
+
         # 更新Markdown文本
-        markdown_text += "| " + lastSubmittedAtUTC8 + " | " + "[" + translatedTitle + "]" + "(" + url + ")" + " | " + difficulty + " | " + numSubmitted + " | " + count + " |" + "\n"
+        markdown_text += "| " + lastSubmittedAtUTC8 + " | " + "[" + translatedTitle + "]" + "(" + url + ")" + " | " + difficultyMap[difficulty] + " | " + numSubmitted + " | " + count + " |" + "\n"
 
 
     return markdown_text
