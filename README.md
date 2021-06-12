@@ -12,6 +12,11 @@
 
 | 最近提交 | 题目 | 题目难度 | 提交 | 重刷 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-06-12 20:43 | [#1449 数位成本和为目标值的最大数字](https://leetcode-cn.com/problems/form-largest-integer-with-digits-that-add-up-to-target) | ★★★ | 1 | 1 |
+| 2021-06-12 16:50 | [#503 下一个更大元素 II](https://leetcode-cn.com/problems/next-greater-element-ii) | ★★ | 2 | 2 |
+| 2021-06-12 16:36 | [#496 下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i) | ★ | 3 | 2 |
+| 2021-06-12 15:36 | [#20 有效的括号](https://leetcode-cn.com/problems/valid-parentheses) | ★ | 5 | 2 |
+| 2021-06-12 01:28 | [#735 行星碰撞](https://leetcode-cn.com/problems/asteroid-collision) | ★★ | 2 | 1 |
 | 2021-06-11 23:12 | [#739 每日温度](https://leetcode-cn.com/problems/daily-temperatures) | ★★ | 3 | **3** |
 | 2021-06-11 20:57 | [#279 完全平方数](https://leetcode-cn.com/problems/perfect-squares) | ★★ | 7 | **4** |
 | 2021-06-10 23:43 | [#92 反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii) | ★★ | 3 | 2 |
@@ -155,7 +160,6 @@
 | 2021-04-14 22:04 | [#208 实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree) | ★★ | 1 | 1 |
 | 2021-04-13 22:03 | [#530 二叉搜索树的最小绝对差](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst) | ★ | 2 | 1 |
 | 2021-04-13 21:56 | [#783 二叉搜索树节点最小距离](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes) | ★ | 2 | 1 |
-| 2021-04-12 23:52 | [#496 下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i) | ★ | 1 | 1 |
 | 2021-04-12 22:52 | [#236 二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree) | ★★ | 3 | 2 |
 | 2021-04-12 22:15 | [#222 完全二叉树的节点个数](https://leetcode-cn.com/problems/count-complete-tree-nodes) | ★★ | 1 | 1 |
 | 2021-04-12 21:41 | [#179 最大数](https://leetcode-cn.com/problems/largest-number) | ★★ | 1 | 1 |
@@ -200,7 +204,6 @@
 | 2021-03-09 22:13 | [#1047 删除字符串中的所有相邻重复项](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string) | ★ | 1 | 1 |
 | 2021-03-08 21:32 | [#132 分割回文串 II](https://leetcode-cn.com/problems/palindrome-partitioning-ii) | ★★★ | 2 | 1 |
 | 2021-03-07 23:02 | [#131 分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning) | ★★ | 1 | 1 |
-| 2021-03-06 21:11 | [#503 下一个更大元素 II](https://leetcode-cn.com/problems/next-greater-element-ii) | ★★ | 1 | 1 |
 | 2021-03-05 21:48 | [#232 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks) | ★ | 1 | 1 |
 | 2021-03-03 21:25 | [#338 比特位计数](https://leetcode-cn.com/problems/counting-bits) | ★ | 4 | **3** |
 | 2021-02-28 19:35 | [#896 单调数列](https://leetcode-cn.com/problems/monotonic-array) | ★ | 2 | 1 |
@@ -334,7 +337,6 @@
 | 2019-11-12 14:46 | [#32 最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses) | ★★★ | 4 | 1 |
 | 2019-11-12 13:46 | [#31 下一个排列](https://leetcode-cn.com/problems/next-permutation) | ★★ | 1 | 1 |
 | 2019-11-08 17:25 | [#21 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists) | ★ | 2 | 1 |
-| 2019-11-08 16:17 | [#20 有效的括号](https://leetcode-cn.com/problems/valid-parentheses) | ★ | 3 | 1 |
 | 2019-11-08 15:08 | [#19 删除链表的倒数第 N 个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list) | ★★ | 4 | 1 |
 | 2019-11-06 16:14 | [#15 三数之和](https://leetcode-cn.com/problems/3sum) | ★★ | 4 | 1 |
 | 2019-11-05 15:02 | [#4 寻找两个正序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays) | ★★★ | 3 | 1 |
