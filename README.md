@@ -12,6 +12,8 @@
 
 | 最近提交 | 题目 | 题目难度 | 提交 | 重刷 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-06-16 22:35 | [#636 函数的独占时间](https://leetcode-cn.com/problems/exclusive-time-of-functions) | ★★ | 3 | 1 |
+| 2021-06-16 20:26 | [#877 石子游戏](https://leetcode-cn.com/problems/stone-game) | ★★ | 1 | 1 |
 | 2021-06-15 20:57 | [#852 山脉数组的峰顶索引](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array) | ★ | 1 | 1 |
 | 2021-06-14 20:17 | [#374 猜数字大小](https://leetcode-cn.com/problems/guess-number-higher-or-lower) | ★ | 2 | 2 |
 | 2021-06-13 01:11 | [#278 第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version) | ★ | 2 | 2 |
