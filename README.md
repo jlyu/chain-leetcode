@@ -12,7 +12,9 @@
 
 | 最近提交 | 题目 | 题目难度 | 提交 | 重刷 |
 | ---- | ---- | ---- | ---- | ---- |
-| 2021-06-16 22:35 | [#636 函数的独占时间](https://leetcode-cn.com/problems/exclusive-time-of-functions) | ★★ | 3 | 1 |
+| 2021-06-17 20:47 | [#636 函数的独占时间](https://leetcode-cn.com/problems/exclusive-time-of-functions) | ★★ | 4 | 2 |
+| 2021-06-17 20:29 | [#394 字符串解码](https://leetcode-cn.com/problems/decode-string) | ★★ | 4 | **3** |
+| 2021-06-17 20:06 | [#65 有效数字](https://leetcode-cn.com/problems/valid-number) | ★★★ | 1 | 1 |
 | 2021-06-16 20:26 | [#877 石子游戏](https://leetcode-cn.com/problems/stone-game) | ★★ | 1 | 1 |
 | 2021-06-15 20:57 | [#852 山脉数组的峰顶索引](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array) | ★ | 1 | 1 |
 | 2021-06-14 20:17 | [#374 猜数字大小](https://leetcode-cn.com/problems/guess-number-higher-or-lower) | ★ | 2 | 2 |
@@ -316,7 +318,6 @@
 | 2020-01-03 13:20 | [#581 最短无序连续子数组](https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray) | ★★ | 6 | 1 |
 | 2020-01-02 23:38 | [#560 和为K的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k) | ★★ | 3 | 1 |
 | 2019-12-30 22:28 | [#438 找到字符串中所有字母异位词](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string) | ★★ | 1 | 1 |
-| 2019-12-30 14:43 | [#394 字符串解码](https://leetcode-cn.com/problems/decode-string) | ★★ | 2 | 1 |
 | 2019-12-24 15:29 | [#347 前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements) | ★★ | 2 | 1 |
 | 2019-12-19 23:51 | [#309 最佳买卖股票时机含冷冻期](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown) | ★★ | 1 | 1 |
 | 2019-12-16 17:58 | [#287 寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number) | ★★ | 1 | 1 |
