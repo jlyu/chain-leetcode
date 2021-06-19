@@ -12,6 +12,8 @@
 
 | 最近提交 | 题目 | 题目难度 | 提交 | 重刷 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-06-19 20:43 | [#1239 串联字符串的最大长度](https://leetcode-cn.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters) | ★★ | 2 | 1 |
+| 2021-06-18 21:05 | [#483 最小好进制](https://leetcode-cn.com/problems/smallest-good-base) | ★★★ | 1 | 1 |
 | 2021-06-17 20:47 | [#636 函数的独占时间](https://leetcode-cn.com/problems/exclusive-time-of-functions) | ★★ | 4 | 2 |
 | 2021-06-17 20:29 | [#394 字符串解码](https://leetcode-cn.com/problems/decode-string) | ★★ | 4 | **3** |
 | 2021-06-17 20:06 | [#65 有效数字](https://leetcode-cn.com/problems/valid-number) | ★★★ | 1 | 1 |
