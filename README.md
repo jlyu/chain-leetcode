@@ -12,6 +12,11 @@
 
 | 最近提交 | 题目 | 题目难度 | 提交 | 重刷 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-06-27 19:32 | [#909 蛇梯棋](https://leetcode-cn.com/problems/snakes-and-ladders) | ★★ | 1 | 1 |
+| 2021-06-27 03:39 | [#139 单词拆分](https://leetcode-cn.com/problems/word-break) | ★★ | 4 | **3** |
+| 2021-06-26 20:49 | [#78 子集](https://leetcode-cn.com/problems/subsets) | ★★ | 5 | **5** |
+| 2021-06-26 16:56 | [#773 滑动谜题](https://leetcode-cn.com/problems/sliding-puzzle) | ★★★ | 1 | 1 |
+| 2021-06-25 22:15 | [#752 打开转盘锁](https://leetcode-cn.com/problems/open-the-lock) | ★★ | 1 | 1 |
 | 2021-06-24 22:04 | [#149 直线上最多的点数](https://leetcode-cn.com/problems/max-points-on-a-line) | ★★★ | 5 | 1 |
 | 2021-06-23 20:58 | [#535 TinyURL 的加密与解密](https://leetcode-cn.com/problems/encode-and-decode-tinyurl) | ★★ | 3 | 1 |
 | 2021-06-23 20:29 | [#剑指 Offer 15 二进制中1的个数](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof) | ★ | 1 | 1 |
@@ -118,7 +123,6 @@
 | 2021-05-11 21:38 | [#46 全排列](https://leetcode-cn.com/problems/permutations) | ★★ | 5 | **4** |
 | 2021-05-10 21:23 | [#216 组合总和 III](https://leetcode-cn.com/problems/combination-sum-iii) | ★★ | 1 | 1 |
 | 2021-05-10 07:50 | [#90 子集 II](https://leetcode-cn.com/problems/subsets-ii) | ★★ | 4 | 2 |
-| 2021-05-10 07:38 | [#78 子集](https://leetcode-cn.com/problems/subsets) | ★★ | 4 | **4** |
 | 2021-05-10 07:17 | [#77 组合](https://leetcode-cn.com/problems/combinations) | ★★ | 2 | 2 |
 | 2021-05-10 06:52 | [#40 组合总和 II](https://leetcode-cn.com/problems/combination-sum-ii) | ★★ | 4 | 1 |
 | 2021-05-10 06:44 | [#872 叶子相似的树](https://leetcode-cn.com/problems/leaf-similar-trees) | ★ | 2 | 1 |
@@ -335,7 +339,6 @@
 | 2019-12-13 15:50 | [#238 除自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self) | ★★ | 1 | 1 |
 | 2019-12-12 23:46 | [#234 回文链表](https://leetcode-cn.com/problems/palindrome-linked-list) | ★ | 1 | 1 |
 | 2019-12-10 22:34 | [#155 最小栈](https://leetcode-cn.com/problems/min-stack) | ★ | 5 | 1 |
-| 2019-12-10 13:17 | [#139 单词拆分](https://leetcode-cn.com/problems/word-break) | ★★ | 2 | 2 |
 | 2019-12-09 18:18 | [#152 乘积最大子数组](https://leetcode-cn.com/problems/maximum-product-subarray) | ★★ | 2 | 1 |
 | 2019-12-06 17:45 | [#142 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii) | ★★ | 1 | 1 |
 | 2019-12-05 22:40 | [#128 最长连续序列](https://leetcode-cn.com/problems/longest-consecutive-sequence) | ★★ | 1 | 1 |
