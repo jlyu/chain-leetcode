@@ -12,6 +12,7 @@
 
 | 最近提交 | 题目 | 题目难度 | 提交 | 重刷 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-07-01 21:48 | [#LCP 07 传递信息](https://leetcode-cn.com/problems/chuan-di-xin-xi) | ★ | 1 | 1 |
 | 2021-06-30 21:25 | [#剑指 Offer 37 序列化二叉树](https://leetcode-cn.com/problems/xu-lie-hua-er-cha-shu-lcof) | ★★★ | 1 | 1 |
 | 2021-06-29 22:25 | [#53 最大子序和](https://leetcode-cn.com/problems/maximum-subarray) | ★ | 18 | **6** |
 | 2021-06-29 21:51 | [#303 区域和检索 - 数组不可变](https://leetcode-cn.com/problems/range-sum-query-immutable) | ★ | 4 | **3** |
