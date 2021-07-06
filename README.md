@@ -12,6 +12,8 @@
 
 | 最近提交 | 题目 | 题目难度 | 提交 | 重刷 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-07-07 00:00 | [#378 有序矩阵中第 K 小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix) | ★★ | 4 | 2 |
+| 2021-07-06 21:55 | [#1418 点菜展示表](https://leetcode-cn.com/problems/display-table-of-food-orders-in-a-restaurant) | ★★ | 1 | 1 |
 | 2021-07-06 00:01 | [#373 查找和最小的K对数字](https://leetcode-cn.com/problems/find-k-pairs-with-smallest-sums) | ★★ | 11 | 2 |
 | 2021-07-05 22:51 | [#1387 将整数按权重排序](https://leetcode-cn.com/problems/sort-integers-by-the-power-value) | ★★ | 7 | 2 |
 | 2021-07-05 21:53 | [#23 合并K个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists) | ★★★ | 5 | **4** |
@@ -85,7 +87,6 @@
 | 2021-05-31 07:06 | [#11 盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water) | ★★ | 2 | 2 |
 | 2021-05-31 00:58 | [#26 删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array) | ★ | 3 | 2 |
 | 2021-05-31 00:08 | [#344 反转字符串](https://leetcode-cn.com/problems/reverse-string) | ★ | 1 | 1 |
-| 2021-05-30 17:13 | [#378 有序矩阵中第 K 小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix) | ★★ | 3 | 1 |
 | 2021-05-30 16:30 | [#973 最接近原点的 K 个点](https://leetcode-cn.com/problems/k-closest-points-to-origin) | ★★ | 3 | 1 |
 | 2021-05-30 00:42 | [#231 2 的幂](https://leetcode-cn.com/problems/power-of-two) | ★ | 2 | 1 |
 | 2021-05-29 18:03 | [#703 数据流中的第 K 大元素](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream) | ★ | 5 | **3** |
