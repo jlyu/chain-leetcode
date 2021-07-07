@@ -12,6 +12,10 @@
 
 | 最近提交 | 题目 | 题目难度 | 提交 | 重刷 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-07-07 23:42 | [#199 二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view) | ★★ | 2 | 2 |
+| 2021-07-07 23:12 | [#104 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree) | ★ | 6 | **5** |
+| 2021-07-07 23:07 | [#102 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal) | ★★ | 4 | **3** |
+| 2021-07-07 21:43 | [#1711 大餐计数](https://leetcode-cn.com/problems/count-good-meals) | ★★ | 1 | 1 |
 | 2021-07-07 00:00 | [#378 有序矩阵中第 K 小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix) | ★★ | 4 | 2 |
 | 2021-07-06 21:55 | [#1418 点菜展示表](https://leetcode-cn.com/problems/display-table-of-food-orders-in-a-restaurant) | ★★ | 1 | 1 |
 | 2021-07-06 00:01 | [#373 查找和最小的K对数字](https://leetcode-cn.com/problems/find-k-pairs-with-smallest-sums) | ★★ | 11 | 2 |
@@ -111,9 +115,6 @@
 | 2021-05-19 08:25 | [#429 N 叉树的层序遍历](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal) | ★★ | 5 | 1 |
 | 2021-05-19 07:43 | [#111 二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree) | ★ | 2 | 2 |
 | 2021-05-19 07:34 | [#103 二叉树的锯齿形层序遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal) | ★★ | 2 | 1 |
-| 2021-05-18 23:46 | [#199 二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view) | ★★ | 1 | 1 |
-| 2021-05-18 23:20 | [#104 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree) | ★ | 5 | **4** |
-| 2021-05-18 22:19 | [#102 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal) | ★★ | 3 | 2 |
 | 2021-05-18 20:56 | [#1442 形成两个异或相等数组的三元组数目](https://leetcode-cn.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor) | ★★ | 1 | 1 |
 | 2021-05-18 00:48 | [#129 求根节点到叶节点数字之和](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers) | ★★ | 2 | 1 |
 | 2021-05-17 23:36 | [#124 二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum) | ★★★ | 3 | **3** |
