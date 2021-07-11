@@ -12,6 +12,7 @@
 
 | 最近提交 | 题目 | 题目难度 | 提交 | 重刷 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-07-12 00:13 | [#887 鸡蛋掉落](https://leetcode-cn.com/problems/super-egg-drop) | ★★★ | 12 | 2 |
 | 2021-07-10 20:58 | [#981 基于时间的键值存储](https://leetcode-cn.com/problems/time-based-key-value-store) | ★★ | 1 | 1 |
 | 2021-07-09 20:41 | [#面试题 17.10 主要元素](https://leetcode-cn.com/problems/find-majority-element-lcci) | ★ | 1 | 1 |
 | 2021-07-08 21:35 | [#930 和相同的二元子数组](https://leetcode-cn.com/problems/binary-subarrays-with-sum) | ★★ | 1 | 1 |
@@ -207,7 +208,6 @@
 | 2021-04-07 21:47 | [#81 搜索旋转排序数组 II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii) | ★★ | 1 | 1 |
 | 2021-04-05 12:43 | [#88 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array) | ★ | 2 | 2 |
 | 2021-04-05 10:30 | [#312 戳气球](https://leetcode-cn.com/problems/burst-balloons) | ★★★ | 6 | 2 |
-| 2021-04-04 22:20 | [#887 鸡蛋掉落](https://leetcode-cn.com/problems/super-egg-drop) | ★★★ | 10 | 2 |
 | 2021-04-04 11:00 | [#10 正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching) | ★★★ | 3 | 2 |
 | 2021-04-04 09:07 | [#781 森林中的兔子](https://leetcode-cn.com/problems/rabbits-in-forest) | ★★ | 1 | 1 |
 | 2021-04-03 23:54 | [#1312 让字符串成为回文串的最少插入次数](https://leetcode-cn.com/problems/minimum-insertion-steps-to-make-a-string-palindrome) | ★★★ | 1 | 1 |
