@@ -12,7 +12,17 @@
 
 | 最近提交 | 题目 | 题目难度 | 提交 | 重刷 |
 | ---- | ---- | ---- | ---- | ---- |
-| 2021-07-12 00:13 | [#887 鸡蛋掉落](https://leetcode-cn.com/problems/super-egg-drop) | ★★★ | 12 | 2 |
+| 2021-07-14 22:04 | [#1818 绝对差值和](https://leetcode-cn.com/problems/minimum-absolute-sum-difference) | ★★ | 1 | 1 |
+| 2021-07-14 17:26 | [#705 设计哈希集合](https://leetcode-cn.com/problems/design-hashset) | ★ | 2 | 2 |
+| 2021-07-14 15:20 | [#155 最小栈](https://leetcode-cn.com/problems/min-stack) | ★ | 7 | 2 |
+| 2021-07-14 14:58 | [#面试题 03.01 三合一](https://leetcode-cn.com/problems/three-in-one-lcci) | ★ | 2 | 1 |
+| 2021-07-13 22:24 | [#225 用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues) | ★ | 1 | 1 |
+| 2021-07-13 22:14 | [#232 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks) | ★ | 2 | 2 |
+| 2021-07-13 20:46 | [#218 天际线问题](https://leetcode-cn.com/problems/the-skyline-problem) | ★★★ | 1 | 1 |
+| 2021-07-12 18:09 | [#274 H 指数](https://leetcode-cn.com/problems/h-index) | ★★ | 1 | 1 |
+| 2021-07-12 18:07 | [#275 H 指数 II](https://leetcode-cn.com/problems/h-index-ii) | ★★ | 1 | 1 |
+| 2021-07-12 08:21 | [#1603 设计停车系统](https://leetcode-cn.com/problems/design-parking-system) | ★ | 3 | 2 |
+| 2021-07-12 00:20 | [#887 鸡蛋掉落](https://leetcode-cn.com/problems/super-egg-drop) | ★★★ | 13 | **3** |
 | 2021-07-10 20:58 | [#981 基于时间的键值存储](https://leetcode-cn.com/problems/time-based-key-value-store) | ★★ | 1 | 1 |
 | 2021-07-09 20:41 | [#面试题 17.10 主要元素](https://leetcode-cn.com/problems/find-majority-element-lcci) | ★ | 1 | 1 |
 | 2021-07-08 21:35 | [#930 和相同的二元子数组](https://leetcode-cn.com/problems/binary-subarrays-with-sum) | ★★ | 1 | 1 |
@@ -224,19 +234,16 @@
 | 2021-03-22 21:11 | [#191 位1的个数](https://leetcode-cn.com/problems/number-of-1-bits) | ★ | 1 | 1 |
 | 2021-03-21 17:56 | [#73 矩阵置零](https://leetcode-cn.com/problems/set-matrix-zeroes) | ★★ | 1 | 1 |
 | 2021-03-20 16:49 | [#150 逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation) | ★★ | 1 | 1 |
-| 2021-03-19 20:23 | [#1603 设计停车系统](https://leetcode-cn.com/problems/design-parking-system) | ★ | 1 | 1 |
 | 2021-03-18 21:06 | [#59 螺旋矩阵 II](https://leetcode-cn.com/problems/spiral-matrix-ii) | ★★ | 2 | 2 |
 | 2021-03-17 20:48 | [#115 不同的子序列](https://leetcode-cn.com/problems/distinct-subsequences) | ★★★ | 1 | 1 |
 | 2021-03-15 20:37 | [#54 螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix) | ★★ | 1 | 1 |
 | 2021-03-14 20:40 | [#706 设计哈希映射](https://leetcode-cn.com/problems/design-hashmap) | ★ | 1 | 1 |
-| 2021-03-13 13:03 | [#705 设计哈希集合](https://leetcode-cn.com/problems/design-hashset) | ★ | 1 | 1 |
 | 2021-03-12 21:25 | [#331 验证二叉树的前序序列化](https://leetcode-cn.com/problems/verify-preorder-serialization-of-a-binary-tree) | ★★ | 1 | 1 |
 | 2021-03-11 22:11 | [#227 基本计算器 II](https://leetcode-cn.com/problems/basic-calculator-ii) | ★★ | 1 | 1 |
 | 2021-03-10 21:22 | [#224 基本计算器](https://leetcode-cn.com/problems/basic-calculator) | ★★★ | 1 | 1 |
 | 2021-03-09 22:13 | [#1047 删除字符串中的所有相邻重复项](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string) | ★ | 1 | 1 |
 | 2021-03-08 21:32 | [#132 分割回文串 II](https://leetcode-cn.com/problems/palindrome-partitioning-ii) | ★★★ | 2 | 1 |
 | 2021-03-07 23:02 | [#131 分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning) | ★★ | 1 | 1 |
-| 2021-03-05 21:48 | [#232 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks) | ★ | 1 | 1 |
 | 2021-03-03 21:25 | [#338 比特位计数](https://leetcode-cn.com/problems/counting-bits) | ★ | 4 | **3** |
 | 2021-02-28 19:35 | [#896 单调数列](https://leetcode-cn.com/problems/monotonic-array) | ★ | 2 | 1 |
 | 2021-02-27 21:00 | [#395 至少有 K 个重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters) | ★★ | 1 | 1 |
@@ -351,7 +358,6 @@
 | 2019-12-13 23:14 | [#240 搜索二维矩阵 II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii) | ★★ | 1 | 1 |
 | 2019-12-13 15:50 | [#238 除自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self) | ★★ | 1 | 1 |
 | 2019-12-12 23:46 | [#234 回文链表](https://leetcode-cn.com/problems/palindrome-linked-list) | ★ | 1 | 1 |
-| 2019-12-10 22:34 | [#155 最小栈](https://leetcode-cn.com/problems/min-stack) | ★ | 5 | 1 |
 | 2019-12-09 18:18 | [#152 乘积最大子数组](https://leetcode-cn.com/problems/maximum-product-subarray) | ★★ | 2 | 1 |
 | 2019-12-06 17:45 | [#142 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii) | ★★ | 1 | 1 |
 | 2019-12-05 22:40 | [#128 最长连续序列](https://leetcode-cn.com/problems/longest-consecutive-sequence) | ★★ | 1 | 1 |
