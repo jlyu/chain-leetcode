@@ -12,8 +12,16 @@
 
 | 最近提交 | 题目 | 题目难度 | 提交 | 重刷 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-07-17 17:13 | [#35 搜索插入位置](https://leetcode-cn.com/problems/search-insert-position) | ★ | 5 | 2 |
+| 2021-07-17 17:13 | [#278 第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version) | ★ | 3 | **3** |
+| 2021-07-17 17:10 | [#704 二分查找](https://leetcode-cn.com/problems/binary-search) | ★ | 7 | **3** |
+| 2021-07-17 16:31 | [#341 扁平化嵌套列表迭代器](https://leetcode-cn.com/problems/flatten-nested-list-iterator) | ★★ | 5 | **4** |
+| 2021-07-17 14:42 | [#1603 设计停车系统](https://leetcode-cn.com/problems/design-parking-system) | ★ | 4 | **3** |
+| 2021-07-17 14:34 | [#剑指 Offer 42 连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof) | ★ | 1 | 1 |
+| 2021-07-16 21:28 | [#421 数组中两个数的最大异或值](https://leetcode-cn.com/problems/maximum-xor-of-two-numbers-in-an-array) | ★★ | 2 | 2 |
+| 2021-07-16 20:40 | [#剑指 Offer 53 - I 在排序数组中查找数字 I](https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof) | ★ | 1 | 1 |
+| 2021-07-16 16:08 | [#208 实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree) | ★★ | 2 | 2 |
 | 2021-07-15 22:10 | [#703 数据流中的第 K 大元素](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream) | ★ | 6 | **4** |
-| 2021-07-15 21:47 | [#341 扁平化嵌套列表迭代器](https://leetcode-cn.com/problems/flatten-nested-list-iterator) | ★★ | 4 | **3** |
 | 2021-07-15 21:13 | [#706 设计哈希映射](https://leetcode-cn.com/problems/design-hashmap) | ★ | 2 | 2 |
 | 2021-07-15 20:47 | [#1846 减小和重新排列数组后的最大元素](https://leetcode-cn.com/problems/maximum-element-after-decreasing-and-rearranging) | ★★ | 1 | 1 |
 | 2021-07-14 22:04 | [#1818 绝对差值和](https://leetcode-cn.com/problems/minimum-absolute-sum-difference) | ★★ | 1 | 1 |
@@ -25,7 +33,6 @@
 | 2021-07-13 20:46 | [#218 天际线问题](https://leetcode-cn.com/problems/the-skyline-problem) | ★★★ | 1 | 1 |
 | 2021-07-12 18:09 | [#274 H 指数](https://leetcode-cn.com/problems/h-index) | ★★ | 1 | 1 |
 | 2021-07-12 18:07 | [#275 H 指数 II](https://leetcode-cn.com/problems/h-index-ii) | ★★ | 1 | 1 |
-| 2021-07-12 08:21 | [#1603 设计停车系统](https://leetcode-cn.com/problems/design-parking-system) | ★ | 3 | 2 |
 | 2021-07-12 00:20 | [#887 鸡蛋掉落](https://leetcode-cn.com/problems/super-egg-drop) | ★★★ | 13 | **3** |
 | 2021-07-10 20:58 | [#981 基于时间的键值存储](https://leetcode-cn.com/problems/time-based-key-value-store) | ★★ | 1 | 1 |
 | 2021-07-09 20:41 | [#面试题 17.10 主要元素](https://leetcode-cn.com/problems/find-majority-element-lcci) | ★ | 1 | 1 |
@@ -74,7 +81,6 @@
 | 2021-06-16 20:26 | [#877 石子游戏](https://leetcode-cn.com/problems/stone-game) | ★★ | 1 | 1 |
 | 2021-06-15 20:57 | [#852 山脉数组的峰顶索引](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array) | ★ | 1 | 1 |
 | 2021-06-14 20:17 | [#374 猜数字大小](https://leetcode-cn.com/problems/guess-number-higher-or-lower) | ★ | 2 | 2 |
-| 2021-06-13 01:11 | [#278 第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version) | ★ | 2 | 2 |
 | 2021-06-12 20:43 | [#1449 数位成本和为目标值的最大数字](https://leetcode-cn.com/problems/form-largest-integer-with-digits-that-add-up-to-target) | ★★★ | 1 | 1 |
 | 2021-06-12 16:50 | [#503 下一个更大元素 II](https://leetcode-cn.com/problems/next-greater-element-ii) | ★★ | 2 | 2 |
 | 2021-06-12 16:36 | [#496 下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i) | ★ | 3 | 2 |
@@ -92,11 +98,9 @@
 | 2021-06-08 08:17 | [#162 寻找峰值](https://leetcode-cn.com/problems/find-peak-element) | ★★ | 1 | 1 |
 | 2021-06-07 23:58 | [#33 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array) | ★★ | 12 | **4** |
 | 2021-06-07 22:26 | [#69 x 的平方根](https://leetcode-cn.com/problems/sqrtx) | ★ | 1 | 1 |
-| 2021-06-07 22:03 | [#704 二分查找](https://leetcode-cn.com/problems/binary-search) | ★ | 5 | 2 |
 | 2021-06-07 18:47 | [#494 目标和](https://leetcode-cn.com/problems/target-sum) | ★★ | 5 | **3** |
 | 2021-06-06 14:01 | [#474 一和零](https://leetcode-cn.com/problems/ones-and-zeroes) | ★★ | 1 | 1 |
 | 2021-06-05 12:08 | [#203 移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements) | ★ | 2 | 1 |
-| 2021-06-04 21:39 | [#35 搜索插入位置](https://leetcode-cn.com/problems/search-insert-position) | ★ | 4 | 1 |
 | 2021-06-04 21:04 | [#160 相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists) | ★ | 3 | 2 |
 | 2021-06-03 21:47 | [#34 在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array) | ★★ | 11 | 2 |
 | 2021-06-03 08:04 | [#525 连续数组](https://leetcode-cn.com/problems/contiguous-array) | ★★ | 1 | 1 |
@@ -138,7 +142,6 @@
 | 2021-05-17 22:21 | [#993 二叉树的堂兄弟节点](https://leetcode-cn.com/problems/cousins-in-binary-tree) | ★ | 1 | 1 |
 | 2021-05-16 22:55 | [#130 被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions) | ★★ | 3 | 1 |
 | 2021-05-16 18:30 | [#733 图像渲染](https://leetcode-cn.com/problems/flood-fill) | ★ | 7 | 1 |
-| 2021-05-16 12:05 | [#421 数组中两个数的最大异或值](https://leetcode-cn.com/problems/maximum-xor-of-two-numbers-in-an-array) | ★★ | 1 | 1 |
 | 2021-05-15 17:21 | [#13 罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer) | ★ | 1 | 1 |
 | 2021-05-14 22:01 | [#37 解数独](https://leetcode-cn.com/problems/sudoku-solver) | ★★★ | 3 | **3** |
 | 2021-05-14 07:09 | [#12 整数转罗马数字](https://leetcode-cn.com/problems/integer-to-roman) | ★★ | 1 | 1 |
@@ -202,7 +205,6 @@
 | 2021-04-16 10:27 | [#87 扰乱字符串](https://leetcode-cn.com/problems/scramble-string) | ★★★ | 1 | 1 |
 | 2021-04-15 21:01 | [#213 打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii) | ★★ | 3 | 2 |
 | 2021-04-14 23:39 | [#206 反转链表](https://leetcode-cn.com/problems/reverse-linked-list) | ★ | 4 | **3** |
-| 2021-04-14 22:04 | [#208 实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree) | ★★ | 1 | 1 |
 | 2021-04-13 22:03 | [#530 二叉搜索树的最小绝对差](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst) | ★ | 2 | 1 |
 | 2021-04-13 21:56 | [#783 二叉搜索树节点最小距离](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes) | ★ | 2 | 1 |
 | 2021-04-12 22:52 | [#236 二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree) | ★★ | 3 | 2 |
