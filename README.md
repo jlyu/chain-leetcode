@@ -12,6 +12,11 @@
 
 | 最近提交 | 题目 | 题目难度 | 提交 | 重刷 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-07-18 14:58 | [#53 最大子序和](https://leetcode-cn.com/problems/maximum-subarray) | ★ | 19 | **7** |
+| 2021-07-18 14:50 | [#217 存在重复元素](https://leetcode-cn.com/problems/contains-duplicate) | ★ | 3 | 1 |
+| 2021-07-18 11:50 | [#189 旋转数组](https://leetcode-cn.com/problems/rotate-array) | ★★ | 2 | 2 |
+| 2021-07-18 11:28 | [#977 有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array) | ★ | 1 | 1 |
+| 2021-07-18 10:08 | [#面试题 10.02 变位词组](https://leetcode-cn.com/problems/group-anagrams-lcci) | ★★ | 1 | 1 |
 | 2021-07-17 17:13 | [#35 搜索插入位置](https://leetcode-cn.com/problems/search-insert-position) | ★ | 5 | 2 |
 | 2021-07-17 17:13 | [#278 第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version) | ★ | 3 | **3** |
 | 2021-07-17 17:10 | [#704 二分查找](https://leetcode-cn.com/problems/binary-search) | ★ | 7 | **3** |
@@ -56,7 +61,6 @@
 | 2021-07-02 21:12 | [#1833 雪糕的最大数量](https://leetcode-cn.com/problems/maximum-ice-cream-bars) | ★★ | 1 | 1 |
 | 2021-07-01 21:48 | [#LCP 07 传递信息](https://leetcode-cn.com/problems/chuan-di-xin-xi) | ★ | 1 | 1 |
 | 2021-06-30 21:25 | [#剑指 Offer 37 序列化二叉树](https://leetcode-cn.com/problems/xu-lie-hua-er-cha-shu-lcof) | ★★★ | 1 | 1 |
-| 2021-06-29 22:25 | [#53 最大子序和](https://leetcode-cn.com/problems/maximum-subarray) | ★ | 18 | **6** |
 | 2021-06-29 21:51 | [#303 区域和检索 - 数组不可变](https://leetcode-cn.com/problems/range-sum-query-immutable) | ★ | 4 | **3** |
 | 2021-06-29 20:44 | [#168 Excel表列名称](https://leetcode-cn.com/problems/excel-sheet-column-title) | ★ | 2 | 1 |
 | 2021-06-28 21:08 | [#815 公交路线](https://leetcode-cn.com/problems/bus-routes) | ★★★ | 1 | 1 |
@@ -298,7 +302,6 @@
 | 2021-01-11 21:53 | [#1202 交换字符串中的元素](https://leetcode-cn.com/problems/smallest-string-with-swaps) | ★★ | 1 | 1 |
 | 2021-01-10 14:32 | [#228 汇总区间](https://leetcode-cn.com/problems/summary-ranges) | ★ | 2 | 1 |
 | 2021-01-09 20:55 | [#123 买卖股票的最佳时机 III](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii) | ★★★ | 1 | 1 |
-| 2021-01-08 20:56 | [#189 旋转数组](https://leetcode-cn.com/problems/rotate-array) | ★★ | 1 | 1 |
 | 2021-01-07 21:47 | [#547 省份数量](https://leetcode-cn.com/problems/number-of-provinces) | ★★ | 1 | 1 |
 | 2021-01-06 21:20 | [#399 除法求值](https://leetcode-cn.com/problems/evaluate-division) | ★★ | 3 | 2 |
 | 2021-01-05 21:29 | [#830 较大分组的位置](https://leetcode-cn.com/problems/positions-of-large-groups) | ★ | 3 | 1 |
