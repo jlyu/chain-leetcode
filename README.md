@@ -12,6 +12,7 @@
 
 | 最近提交 | 题目 | 题目难度 | 提交 | 重刷 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-07-26 17:06 | [#1713 得到子序列的最少操作次数](https://leetcode-cn.com/problems/minimum-operations-to-make-a-subsequence) | ★★★ | 1 | 1 |
 | 2021-07-25 20:45 | [#1743 从相邻元素对还原数组](https://leetcode-cn.com/problems/restore-the-array-from-adjacent-pairs) | ★★ | 1 | 1 |
 | 2021-07-24 20:22 | [#1736 替换隐藏数字得到的最晚时间](https://leetcode-cn.com/problems/latest-time-by-replacing-hidden-digits) | ★ | 1 | 1 |
 | 2021-07-23 20:58 | [#1893 检查是否区域内所有整数都被覆盖](https://leetcode-cn.com/problems/check-if-all-the-integers-in-a-range-are-covered) | ★ | 1 | 1 |
