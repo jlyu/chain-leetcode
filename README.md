@@ -12,7 +12,8 @@
 
 | 最近提交 | 题目 | 题目难度 | 提交 | 重刷 |
 | ---- | ---- | ---- | ---- | ---- |
-| 2021-07-29 20:39 | [#1104 二叉树寻路](https://leetcode-cn.com/problems/path-in-zigzag-labelled-binary-tree) | ★★ | 1 | 1 |
+| 2021-07-30 20:18 | [#171 Excel 表列序号](https://leetcode-cn.com/problems/excel-sheet-column-number) | ★ | 1 | 1 |
+| 2021-07-30 20:17 | [#1104 二叉树寻路](https://leetcode-cn.com/problems/path-in-zigzag-labelled-binary-tree) | ★★ | 2 | 2 |
 | 2021-07-28 21:15 | [#863 二叉树中所有距离为 K 的结点](https://leetcode-cn.com/problems/all-nodes-distance-k-in-binary-tree) | ★★ | 1 | 1 |
 | 2021-07-27 20:16 | [#671 二叉树中第二小的节点](https://leetcode-cn.com/problems/second-minimum-node-in-a-binary-tree) | ★ | 1 | 1 |
 | 2021-07-26 17:06 | [#1713 得到子序列的最少操作次数](https://leetcode-cn.com/problems/minimum-operations-to-make-a-subsequence) | ★★★ | 1 | 1 |
