@@ -12,6 +12,9 @@
 
 | 最近提交 | 题目 | 题目难度 | 提交 | 重刷 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-08-03 21:21 | [#581 最短无序连续子数组](https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray) | ★★ | 7 | 2 |
+| 2021-08-02 20:18 | [#743 网络延迟时间](https://leetcode-cn.com/problems/network-delay-time) | ★★ | 3 | 2 |
+| 2021-08-01 20:04 | [#1337 矩阵中战斗力最弱的 K 行](https://leetcode-cn.com/problems/the-k-weakest-rows-in-a-matrix) | ★ | 1 | 1 |
 | 2021-07-31 02:20 | [#987 二叉树的垂序遍历](https://leetcode-cn.com/problems/vertical-order-traversal-of-a-binary-tree) | ★★★ | 1 | 1 |
 | 2021-07-30 20:18 | [#171 Excel 表列序号](https://leetcode-cn.com/problems/excel-sheet-column-number) | ★ | 1 | 1 |
 | 2021-07-30 20:17 | [#1104 二叉树寻路](https://leetcode-cn.com/problems/path-in-zigzag-labelled-binary-tree) | ★★ | 2 | 2 |
@@ -145,7 +148,6 @@
 | 2021-05-29 00:53 | [#1074 元素和为目标值的子矩阵数量](https://leetcode-cn.com/problems/number-of-submatrices-that-sum-to-target) | ★★★ | 1 | 1 |
 | 2021-05-29 00:52 | [#477 汉明距离总和](https://leetcode-cn.com/problems/total-hamming-distance) | ★★ | 1 | 1 |
 | 2021-05-27 00:04 | [#461 汉明距离](https://leetcode-cn.com/problems/hamming-distance) | ★ | 4 | **3** |
-| 2021-05-26 23:07 | [#743 网络延迟时间](https://leetcode-cn.com/problems/network-delay-time) | ★★ | 1 | 1 |
 | 2021-05-26 21:42 | [#1190 反转每对括号间的子串](https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses) | ★★ | 1 | 1 |
 | 2021-05-25 22:33 | [#934 最短的桥](https://leetcode-cn.com/problems/shortest-bridge) | ★★ | 6 | 1 |
 | 2021-05-25 07:56 | [#1787 使所有区间的异或结果为零](https://leetcode-cn.com/problems/make-the-xor-of-all-segments-equal-to-zero) | ★★★ | 1 | 1 |
@@ -354,7 +356,7 @@
 | 2020-02-26 14:57 | [#剑指 Offer 06 从尾到头打印链表](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof) | ★ | 1 | 1 |
 | 2020-02-26 14:51 | [#剑指 Offer 05 替换空格](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof) | ★ | 1 | 1 |
 | 2020-02-12 18:04 | [#剑指 Offer 04 二维数组中的查找](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof) | ★★ | 1 | 1 |
-| 2020-02-12 18:02 | [#面试题3 数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof) | ★ | 1 | 1 |
+| 2020-02-12 18:02 | [#剑指 Offer 03 数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof) | ★ | 1 | 1 |
 | 2020-02-11 23:09 | [#96 不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees) | ★★ | 2 | 2 |
 | 2020-02-11 16:04 | [#136 只出现一次的数字](https://leetcode-cn.com/problems/single-number) | ★ | 2 | 2 |
 | 2020-02-11 15:15 | [#3 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters) | ★★ | 6 | 2 |
@@ -371,7 +373,6 @@
 | 2020-01-14 15:14 | [#543 二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree) | ★ | 10 | 2 |
 | 2020-01-03 23:07 | [#647 回文子串](https://leetcode-cn.com/problems/palindromic-substrings) | ★★ | 3 | 1 |
 | 2020-01-03 14:15 | [#621 任务调度器](https://leetcode-cn.com/problems/task-scheduler) | ★★ | 1 | 1 |
-| 2020-01-03 13:20 | [#581 最短无序连续子数组](https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray) | ★★ | 6 | 1 |
 | 2019-12-30 22:28 | [#438 找到字符串中所有字母异位词](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string) | ★★ | 1 | 1 |
 | 2019-12-24 15:29 | [#347 前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements) | ★★ | 2 | 1 |
 | 2019-12-19 23:51 | [#309 最佳买卖股票时机含冷冻期](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown) | ★★ | 1 | 1 |
