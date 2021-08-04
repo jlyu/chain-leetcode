@@ -12,6 +12,7 @@
 
 | 最近提交 | 题目 | 题目难度 | 提交 | 重刷 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-08-04 20:21 | [#611 有效三角形的个数](https://leetcode-cn.com/problems/valid-triangle-number) | ★★ | 1 | 1 |
 | 2021-08-03 21:21 | [#581 最短无序连续子数组](https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray) | ★★ | 7 | 2 |
 | 2021-08-02 20:18 | [#743 网络延迟时间](https://leetcode-cn.com/problems/network-delay-time) | ★★ | 3 | 2 |
 | 2021-08-01 20:04 | [#1337 矩阵中战斗力最弱的 K 行](https://leetcode-cn.com/problems/the-k-weakest-rows-in-a-matrix) | ★ | 1 | 1 |
