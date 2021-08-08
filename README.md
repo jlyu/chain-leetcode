@@ -12,6 +12,7 @@
 
 | 最近提交 | 题目 | 题目难度 | 提交 | 重刷 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-08-08 14:22 | [#1137 第 N 个泰波那契数](https://leetcode-cn.com/problems/n-th-tribonacci-number) | ★ | 2 | 2 |
 | 2021-08-07 21:42 | [#457 环形数组是否存在循环](https://leetcode-cn.com/problems/circular-array-loop) | ★★ | 1 | 1 |
 | 2021-08-06 15:47 | [#847 访问所有节点的最短路径](https://leetcode-cn.com/problems/shortest-path-visiting-all-nodes) | ★★★ | 1 | 1 |
 | 2021-08-05 21:11 | [#802 找到最终的安全状态](https://leetcode-cn.com/problems/find-eventual-safe-states) | ★★ | 1 | 1 |
@@ -202,7 +203,6 @@
 | 2021-05-06 22:04 | [#740 删除并获得点数](https://leetcode-cn.com/problems/delete-and-earn) | ★★ | 2 | 1 |
 | 2021-05-06 22:01 | [#1720 解码异或后的数组](https://leetcode-cn.com/problems/decode-xored-array) | ★ | 1 | 1 |
 | 2021-05-05 16:48 | [#1218 最长定差子序列](https://leetcode-cn.com/problems/longest-arithmetic-subsequence-of-given-difference) | ★★ | 7 | 1 |
-| 2021-05-05 13:56 | [#1137 第 N 个泰波那契数](https://leetcode-cn.com/problems/n-th-tribonacci-number) | ★ | 1 | 1 |
 | 2021-05-05 01:49 | [#746 使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs) | ★ | 2 | 1 |
 | 2021-05-04 23:25 | [#337 打家劫舍 III](https://leetcode-cn.com/problems/house-robber-iii) | ★★ | 9 | **4** |
 | 2021-05-04 21:27 | [#72 编辑距离](https://leetcode-cn.com/problems/edit-distance) | ★★★ | 6 | **4** |
