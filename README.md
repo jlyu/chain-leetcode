@@ -12,6 +12,7 @@
 
 | 最近提交 | 题目 | 题目难度 | 提交 | 重刷 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-08-09 22:41 | [#313 超级丑数](https://leetcode-cn.com/problems/super-ugly-number) | ★★ | 1 | 1 |
 | 2021-08-08 14:22 | [#1137 第 N 个泰波那契数](https://leetcode-cn.com/problems/n-th-tribonacci-number) | ★ | 2 | 2 |
 | 2021-08-07 21:42 | [#457 环形数组是否存在循环](https://leetcode-cn.com/problems/circular-array-loop) | ★★ | 1 | 1 |
 | 2021-08-06 15:47 | [#847 访问所有节点的最短路径](https://leetcode-cn.com/problems/shortest-path-visiting-all-nodes) | ★★★ | 1 | 1 |
