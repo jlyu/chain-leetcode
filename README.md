@@ -12,6 +12,8 @@
 
 | 最近提交 | 题目 | 题目难度 | 提交 | 重刷 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-08-11 21:37 | [#446 等差数列划分 II - 子序列](https://leetcode-cn.com/problems/arithmetic-slices-ii-subsequence) | ★★★ | 1 | 1 |
+| 2021-08-10 21:21 | [#413 等差数列划分](https://leetcode-cn.com/problems/arithmetic-slices) | ★★ | 1 | 1 |
 | 2021-08-09 22:41 | [#313 超级丑数](https://leetcode-cn.com/problems/super-ugly-number) | ★★ | 1 | 1 |
 | 2021-08-08 14:22 | [#1137 第 N 个泰波那契数](https://leetcode-cn.com/problems/n-th-tribonacci-number) | ★ | 2 | 2 |
 | 2021-08-07 21:42 | [#457 环形数组是否存在循环](https://leetcode-cn.com/problems/circular-array-loop) | ★★ | 1 | 1 |
