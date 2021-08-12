@@ -12,6 +12,7 @@
 
 | 最近提交 | 题目 | 题目难度 | 提交 | 重刷 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-08-12 21:05 | [#516 最长回文子序列](https://leetcode-cn.com/problems/longest-palindromic-subsequence) | ★★ | 2 | 2 |
 | 2021-08-11 21:37 | [#446 等差数列划分 II - 子序列](https://leetcode-cn.com/problems/arithmetic-slices-ii-subsequence) | ★★★ | 1 | 1 |
 | 2021-08-10 21:21 | [#413 等差数列划分](https://leetcode-cn.com/problems/arithmetic-slices) | ★★ | 1 | 1 |
 | 2021-08-09 22:41 | [#313 超级丑数](https://leetcode-cn.com/problems/super-ugly-number) | ★★ | 1 | 1 |
@@ -254,7 +255,6 @@
 | 2021-04-04 11:00 | [#10 正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching) | ★★★ | 3 | 2 |
 | 2021-04-04 09:07 | [#781 森林中的兔子](https://leetcode-cn.com/problems/rabbits-in-forest) | ★★ | 1 | 1 |
 | 2021-04-03 23:54 | [#1312 让字符串成为回文串的最少插入次数](https://leetcode-cn.com/problems/minimum-insertion-steps-to-make-a-string-palindrome) | ★★★ | 1 | 1 |
-| 2021-04-03 20:48 | [#516 最长回文子序列](https://leetcode-cn.com/problems/longest-palindromic-subsequence) | ★★ | 1 | 1 |
 | 2021-04-02 21:04 | [#面试题 17.21 直方图的水量](https://leetcode-cn.com/problems/volume-of-histogram-lcci) | ★★★ | 1 | 1 |
 | 2021-04-01 21:05 | [#1006 笨阶乘](https://leetcode-cn.com/problems/clumsy-factorial) | ★★ | 1 | 1 |
 | 2021-03-30 21:11 | [#74 搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix) | ★★ | 1 | 1 |
