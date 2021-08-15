@@ -12,6 +12,8 @@
 
 | 最近提交 | 题目 | 题目难度 | 提交 | 重刷 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-08-15 21:24 | [#576 出界的路径数](https://leetcode-cn.com/problems/out-of-boundary-paths) | ★★ | 1 | 1 |
+| 2021-08-14 20:33 | [#1583 统计不开心的朋友](https://leetcode-cn.com/problems/count-unhappy-friends) | ★★ | 1 | 1 |
 | 2021-08-13 20:58 | [#233 数字 1 的个数](https://leetcode-cn.com/problems/number-of-digit-one) | ★★★ | 1 | 1 |
 | 2021-08-12 21:05 | [#516 最长回文子序列](https://leetcode-cn.com/problems/longest-palindromic-subsequence) | ★★ | 2 | 2 |
 | 2021-08-11 21:37 | [#446 等差数列划分 II - 子序列](https://leetcode-cn.com/problems/arithmetic-slices-ii-subsequence) | ★★★ | 1 | 1 |
