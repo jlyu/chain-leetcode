@@ -12,6 +12,8 @@
 
 | 最近提交 | 题目 | 题目难度 | 提交 | 重刷 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-08-17 21:13 | [#551 学生出勤记录 I](https://leetcode-cn.com/problems/student-attendance-record-i) | ★ | 1 | 1 |
+| 2021-08-16 21:16 | [#526 优美的排列](https://leetcode-cn.com/problems/beautiful-arrangement) | ★★ | 1 | 1 |
 | 2021-08-15 21:24 | [#576 出界的路径数](https://leetcode-cn.com/problems/out-of-boundary-paths) | ★★ | 1 | 1 |
 | 2021-08-14 20:33 | [#1583 统计不开心的朋友](https://leetcode-cn.com/problems/count-unhappy-friends) | ★★ | 1 | 1 |
 | 2021-08-13 20:58 | [#233 数字 1 的个数](https://leetcode-cn.com/problems/number-of-digit-one) | ★★★ | 1 | 1 |
