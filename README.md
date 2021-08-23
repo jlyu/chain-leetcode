@@ -12,6 +12,7 @@
 
 | 最近提交 | 题目 | 题目难度 | 提交 | 重刷 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-08-23 20:35 | [#1646 获取生成数组中的最大值](https://leetcode-cn.com/problems/get-maximum-in-generated-array) | ★ | 1 | 1 |
 | 2021-08-22 20:29 | [#789 逃脱阻碍者](https://leetcode-cn.com/problems/escape-the-ghosts) | ★★ | 1 | 1 |
 | 2021-08-21 20:44 | [#443 压缩字符串](https://leetcode-cn.com/problems/string-compression) | ★★ | 1 | 1 |
 | 2021-08-20 21:50 | [#541 反转字符串 II](https://leetcode-cn.com/problems/reverse-string-ii) | ★ | 1 | 1 |
