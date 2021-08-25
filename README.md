@@ -12,6 +12,7 @@
 
 | 最近提交 | 题目 | 题目难度 | 提交 | 重刷 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-08-25 20:54 | [#797 所有可能的路径](https://leetcode-cn.com/problems/all-paths-from-source-to-target) | ★★ | 1 | 1 |
 | 2021-08-24 20:43 | [#787 K 站中转内最便宜的航班](https://leetcode-cn.com/problems/cheapest-flights-within-k-stops) | ★★ | 5 | 1 |
 | 2021-08-23 20:35 | [#1646 获取生成数组中的最大值](https://leetcode-cn.com/problems/get-maximum-in-generated-array) | ★ | 1 | 1 |
 | 2021-08-22 20:29 | [#789 逃脱阻碍者](https://leetcode-cn.com/problems/escape-the-ghosts) | ★★ | 1 | 1 |
