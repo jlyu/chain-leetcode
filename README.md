@@ -12,6 +12,7 @@
 
 | 最近提交 | 题目 | 题目难度 | 提交 | 重刷 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-08-31 20:56 | [#1109 航班预订统计](https://leetcode-cn.com/problems/corporate-flight-bookings) | ★★ | 1 | 1 |
 | 2021-08-30 21:12 | [#528 按权重随机选择](https://leetcode-cn.com/problems/random-pick-with-weight) | ★★ | 1 | 1 |
 | 2021-08-29 19:28 | [#1588 所有奇数长度子数组的和](https://leetcode-cn.com/problems/sum-of-all-odd-length-subarrays) | ★ | 1 | 1 |
 | 2021-08-28 19:46 | [#1480 一维数组的动态和](https://leetcode-cn.com/problems/running-sum-of-1d-array) | ★ | 1 | 1 |
