@@ -12,6 +12,7 @@
 
 | 最近提交 | 题目 | 题目难度 | 提交 | 重刷 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-09-03 21:11 | [#面试题 17.14 最小K个数](https://leetcode-cn.com/problems/smallest-k-lcci) | ★★ | 1 | 1 |
 | 2021-09-02 20:43 | [#剑指 Offer 22 链表中倒数第k个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof) | ★ | 1 | 1 |
 | 2021-09-01 20:44 | [#165 比较版本号](https://leetcode-cn.com/problems/compare-version-numbers) | ★★ | 1 | 1 |
 | 2021-08-31 20:56 | [#1109 航班预订统计](https://leetcode-cn.com/problems/corporate-flight-bookings) | ★★ | 1 | 1 |
