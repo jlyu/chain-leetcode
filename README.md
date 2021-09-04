@@ -12,6 +12,7 @@
 
 | 最近提交 | 题目 | 题目难度 | 提交 | 重刷 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-09-04 20:45 | [#剑指 Offer 10- I 斐波那契数列](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof) | ★ | 3 | 2 |
 | 2021-09-03 21:11 | [#面试题 17.14 最小K个数](https://leetcode-cn.com/problems/smallest-k-lcci) | ★★ | 1 | 1 |
 | 2021-09-02 20:43 | [#剑指 Offer 22 链表中倒数第k个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof) | ★ | 1 | 1 |
 | 2021-09-01 20:44 | [#165 比较版本号](https://leetcode-cn.com/problems/compare-version-numbers) | ★★ | 1 | 1 |
@@ -379,7 +380,6 @@
 | 2020-03-16 15:28 | [#面试题 01.06 字符串压缩](https://leetcode-cn.com/problems/compress-string-lcci) | ★ | 1 | 1 |
 | 2020-03-15 14:45 | [#695 岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island) | ★★ | 1 | 1 |
 | 2020-03-13 23:46 | [#169 多数元素](https://leetcode-cn.com/problems/majority-element) | ★ | 3 | 2 |
-| 2020-02-26 15:16 | [#剑指 Offer 10- I 斐波那契数列](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof) | ★ | 2 | 1 |
 | 2020-02-26 15:07 | [#剑指 Offer 09 用两个栈实现队列](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof) | ★ | 2 | 1 |
 | 2020-02-26 15:01 | [#剑指 Offer 07 重建二叉树](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof) | ★★ | 1 | 1 |
 | 2020-02-26 14:57 | [#剑指 Offer 06 从尾到头打印链表](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof) | ★ | 1 | 1 |
