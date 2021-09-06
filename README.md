@@ -12,6 +12,7 @@
 
 | 最近提交 | 题目 | 题目难度 | 提交 | 重刷 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-09-06 22:06 | [#704 二分查找](https://leetcode-cn.com/problems/binary-search) | ★ | 8 | **4** |
 | 2021-09-05 20:55 | [#470 用 Rand7() 实现 Rand10()](https://leetcode-cn.com/problems/implement-rand10-using-rand7) | ★★ | 1 | 1 |
 | 2021-09-04 20:45 | [#剑指 Offer 10- I 斐波那契数列](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof) | ★ | 3 | 2 |
 | 2021-09-03 21:11 | [#面试题 17.14 最小K个数](https://leetcode-cn.com/problems/smallest-k-lcci) | ★★ | 1 | 1 |
@@ -79,7 +80,6 @@
 | 2021-07-18 10:08 | [#面试题 10.02 变位词组](https://leetcode-cn.com/problems/group-anagrams-lcci) | ★★ | 1 | 1 |
 | 2021-07-17 17:13 | [#35 搜索插入位置](https://leetcode-cn.com/problems/search-insert-position) | ★ | 5 | 2 |
 | 2021-07-17 17:13 | [#278 第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version) | ★ | 3 | **3** |
-| 2021-07-17 17:10 | [#704 二分查找](https://leetcode-cn.com/problems/binary-search) | ★ | 7 | **3** |
 | 2021-07-17 16:31 | [#341 扁平化嵌套列表迭代器](https://leetcode-cn.com/problems/flatten-nested-list-iterator) | ★★ | 5 | **4** |
 | 2021-07-17 14:42 | [#1603 设计停车系统](https://leetcode-cn.com/problems/design-parking-system) | ★ | 4 | **3** |
 | 2021-07-17 14:34 | [#剑指 Offer 42 连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof) | ★ | 1 | 1 |
