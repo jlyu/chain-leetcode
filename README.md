@@ -12,6 +12,34 @@
 
 | 最近提交 | 题目 | 题目难度 | 提交 | 重刷 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-10-04 13:18 | [#482 密钥格式化](https://leetcode-cn.com/problems/license-key-formatting) | ★ | 1 | 1 |
+| 2021-10-03 09:21 | [#166 分数到小数](https://leetcode-cn.com/problems/fraction-to-recurring-decimal) | ★★ | 1 | 1 |
+| 2021-10-02 17:46 | [#1436 旅行终点站](https://leetcode-cn.com/problems/destination-city) | ★ | 1 | 1 |
+| 2021-10-02 17:45 | [#405 数字转换为十六进制数](https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal) | ★ | 1 | 1 |
+| 2021-09-30 21:13 | [#223 矩形面积](https://leetcode-cn.com/problems/rectangle-area) | ★★ | 1 | 1 |
+| 2021-09-29 21:36 | [#517 超级洗衣机](https://leetcode-cn.com/problems/super-washing-machines) | ★★★ | 1 | 1 |
+| 2021-09-28 20:39 | [#437 路径总和 III](https://leetcode-cn.com/problems/path-sum-iii) | ★★ | 4 | **4** |
+| 2021-09-27 22:48 | [#639 解码方法 II](https://leetcode-cn.com/problems/decode-ways-ii) | ★★★ | 1 | 1 |
+| 2021-09-26 02:34 | [#371 两整数之和](https://leetcode-cn.com/problems/sum-of-two-integers) | ★★ | 2 | 1 |
+| 2021-09-25 20:59 | [#583 两个字符串的删除操作](https://leetcode-cn.com/problems/delete-operation-for-two-strings) | ★★ | 1 | 1 |
+| 2021-09-24 21:44 | [#430 扁平化多级双向链表](https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list) | ★★ | 1 | 1 |
+| 2021-09-23 20:55 | [#326 3的幂](https://leetcode-cn.com/problems/power-of-three) | ★ | 1 | 1 |
+| 2021-09-22 20:50 | [#725 分隔链表](https://leetcode-cn.com/problems/split-linked-list-in-parts) | ★★ | 1 | 1 |
+| 2021-09-21 21:35 | [#58 最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word) | ★ | 1 | 1 |
+| 2021-09-20 16:10 | [#650 只有两个键的键盘](https://leetcode-cn.com/problems/2-keys-keyboard) | ★★ | 3 | 1 |
+| 2021-09-20 16:08 | [#673 最长递增子序列的个数](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence) | ★★ | 1 | 1 |
+| 2021-09-18 16:56 | [#292 Nim 游戏](https://leetcode-cn.com/problems/nim-game) | ★ | 1 | 1 |
+| 2021-09-17 22:55 | [#36 有效的数独](https://leetcode-cn.com/problems/valid-sudoku) | ★★ | 2 | 1 |
+| 2021-09-16 21:42 | [#212 单词搜索 II](https://leetcode-cn.com/problems/word-search-ii) | ★★★ | 1 | 1 |
+| 2021-09-15 20:45 | [#162 寻找峰值](https://leetcode-cn.com/problems/find-peak-element) | ★★ | 2 | 2 |
+| 2021-09-14 18:23 | [#524 通过删除字母匹配到字典里最长单词](https://leetcode-cn.com/problems/longest-word-in-dictionary-through-deleting) | ★★ | 1 | 1 |
+| 2021-09-13 20:25 | [#447 回旋镖的数量](https://leetcode-cn.com/problems/number-of-boomerangs) | ★★ | 1 | 1 |
+| 2021-09-12 20:01 | [#678 有效的括号字符串](https://leetcode-cn.com/problems/valid-parenthesis-string) | ★★ | 1 | 1 |
+| 2021-09-11 18:26 | [#600 不含连续1的非负整数](https://leetcode-cn.com/problems/non-negative-integers-without-consecutive-ones) | ★★★ | 1 | 1 |
+| 2021-09-10 21:20 | [#1894 找到需要补充粉笔的学生编号](https://leetcode-cn.com/problems/find-the-student-that-will-replace-the-chalk) | ★★ | 1 | 1 |
+| 2021-09-09 21:45 | [#68 文本左右对齐](https://leetcode-cn.com/problems/text-justification) | ★★★ | 1 | 1 |
+| 2021-09-08 20:38 | [#502 IPO](https://leetcode-cn.com/problems/ipo) | ★★★ | 1 | 1 |
+| 2021-09-07 21:47 | [#1221 分割平衡字符串](https://leetcode-cn.com/problems/split-a-string-in-balanced-strings) | ★ | 1 | 1 |
 | 2021-09-06 22:06 | [#704 二分查找](https://leetcode-cn.com/problems/binary-search) | ★ | 8 | **4** |
 | 2021-09-05 20:55 | [#470 用 Rand7() 实现 Rand10()](https://leetcode-cn.com/problems/implement-rand10-using-rand7) | ★★ | 1 | 1 |
 | 2021-09-04 20:45 | [#剑指 Offer 10- I 斐波那契数列](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof) | ★ | 3 | 2 |
@@ -134,7 +162,7 @@
 | 2021-06-23 20:29 | [#剑指 Offer 15 二进制中1的个数](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof) | ★ | 1 | 1 |
 | 2021-06-22 21:18 | [#剑指 Offer 38 字符串的排列](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof) | ★★ | 3 | 1 |
 | 2021-06-21 20:41 | [#401 二进制手表](https://leetcode-cn.com/problems/binary-watch) | ★ | 1 | 1 |
-| 2021-06-20 21:24 | [#560 和为K的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k) | ★★ | 4 | 2 |
+| 2021-06-20 21:24 | [#560 和为 K 的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k) | ★★ | 4 | 2 |
 | 2021-06-20 01:54 | [#1600 皇位继承顺序](https://leetcode-cn.com/problems/throne-inheritance) | ★★ | 1 | 1 |
 | 2021-06-19 20:43 | [#1239 串联字符串的最大长度](https://leetcode-cn.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters) | ★★ | 2 | 1 |
 | 2021-06-18 21:05 | [#483 最小好进制](https://leetcode-cn.com/problems/smallest-good-base) | ★★★ | 1 | 1 |
@@ -158,9 +186,8 @@
 | 2021-06-09 21:26 | [#879 盈利计划](https://leetcode-cn.com/problems/profitable-schemes) | ★★★ | 1 | 1 |
 | 2021-06-08 23:51 | [#153 寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array) | ★★ | 6 | 2 |
 | 2021-06-08 23:49 | [#1049 最后一块石头的重量 II](https://leetcode-cn.com/problems/last-stone-weight-ii) | ★★ | 1 | 1 |
-| 2021-06-08 08:17 | [#162 寻找峰值](https://leetcode-cn.com/problems/find-peak-element) | ★★ | 1 | 1 |
 | 2021-06-07 23:58 | [#33 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array) | ★★ | 12 | **4** |
-| 2021-06-07 22:26 | [#69 x 的平方根](https://leetcode-cn.com/problems/sqrtx) | ★ | 1 | 1 |
+| 2021-06-07 22:26 | [#69 Sqrt(x)](https://leetcode-cn.com/problems/sqrtx) | ★ | 1 | 1 |
 | 2021-06-07 18:47 | [#494 目标和](https://leetcode-cn.com/problems/target-sum) | ★★ | 5 | **3** |
 | 2021-06-06 14:01 | [#474 一和零](https://leetcode-cn.com/problems/ones-and-zeroes) | ★★ | 1 | 1 |
 | 2021-06-05 12:08 | [#203 移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements) | ★ | 2 | 1 |
@@ -393,7 +420,6 @@
 | 2020-02-11 14:54 | [#79 单词搜索](https://leetcode-cn.com/problems/word-search) | ★★ | 2 | 2 |
 | 2020-02-11 13:13 | [#617 合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees) | ★ | 3 | **3** |
 | 2020-02-11 00:50 | [#538 把二叉搜索树转换为累加树](https://leetcode-cn.com/problems/convert-bst-to-greater-tree) | ★★ | 5 | **3** |
-| 2020-02-11 00:45 | [#437 路径总和 III](https://leetcode-cn.com/problems/path-sum-iii) | ★★ | 3 | **3** |
 | 2020-01-20 16:38 | [#148 排序链表](https://leetcode-cn.com/problems/sort-list) | ★★ | 3 | 2 |
 | 2020-01-20 15:44 | [#56 合并区间](https://leetcode-cn.com/problems/merge-intervals) | ★★ | 4 | 2 |
 | 2020-01-20 15:04 | [#406 根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height) | ★★ | 1 | 1 |
