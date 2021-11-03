@@ -12,6 +12,36 @@
 
 | 最近提交 | 题目 | 题目难度 | 提交 | 重刷 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-11-03 21:10 | [#407 接雨水 II](https://leetcode-cn.com/problems/trapping-rain-water-ii) | ★★★ | 1 | 1 |
+| 2021-11-02 21:36 | [#237 删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list) | ★ | 2 | 2 |
+| 2021-11-01 21:53 | [#575 分糖果](https://leetcode-cn.com/problems/distribute-candies) | ★ | 1 | 1 |
+| 2021-10-31 03:31 | [#500 键盘行](https://leetcode-cn.com/problems/keyboard-row) | ★ | 1 | 1 |
+| 2021-10-30 19:18 | [#260 只出现一次的数字 III](https://leetcode-cn.com/problems/single-number-iii) | ★★ | 1 | 1 |
+| 2021-10-29 22:17 | [#335 路径交叉](https://leetcode-cn.com/problems/self-crossing) | ★★★ | 1 | 1 |
+| 2021-10-28 21:07 | [#869 重新排序得到 2 的幂](https://leetcode-cn.com/problems/reordered-power-of-2) | ★★ | 1 | 1 |
+| 2021-10-27 21:18 | [#301 删除无效的括号](https://leetcode-cn.com/problems/remove-invalid-parentheses) | ★★★ | 3 | 2 |
+| 2021-10-26 22:02 | [#496 下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i) | ★ | 4 | **3** |
+| 2021-10-25 21:07 | [#240 搜索二维矩阵 II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii) | ★★ | 2 | 2 |
+| 2021-10-24 19:55 | [#638 大礼包](https://leetcode-cn.com/problems/shopping-offers) | ★★ | 1 | 1 |
+| 2021-10-23 20:55 | [#492 构造矩形](https://leetcode-cn.com/problems/construct-the-rectangle) | ★ | 1 | 1 |
+| 2021-10-22 21:48 | [#229 求众数 II](https://leetcode-cn.com/problems/majority-element-ii) | ★★ | 1 | 1 |
+| 2021-10-21 21:25 | [#66 加一](https://leetcode-cn.com/problems/plus-one) | ★ | 1 | 1 |
+| 2021-10-20 21:05 | [#453 最小操作次数使数组元素相等](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements) | ★ | 1 | 1 |
+| 2021-10-19 21:54 | [#211 添加与搜索单词 - 数据结构设计](https://leetcode-cn.com/problems/design-add-and-search-words-data-structure) | ★★ | 1 | 1 |
+| 2021-10-18 16:56 | [#476 数字的补数](https://leetcode-cn.com/problems/number-complement) | ★ | 1 | 1 |
+| 2021-10-17 00:40 | [#230 二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst) | ★★ | 1 | 1 |
+| 2021-10-16 17:04 | [#282 给表达式添加运算符](https://leetcode-cn.com/problems/expression-add-operators) | ★★★ | 1 | 1 |
+| 2021-10-15 21:53 | [#38 外观数列](https://leetcode-cn.com/problems/count-and-say) | ★★ | 1 | 1 |
+| 2021-10-14 21:05 | [#剑指 Offer II 069 山峰数组的顶部](https://leetcode-cn.com/problems/B1IidL) | ★ | 1 | 1 |
+| 2021-10-13 20:58 | [#412 Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz) | ★ | 1 | 1 |
+| 2021-10-12 20:56 | [#29 两数相除](https://leetcode-cn.com/problems/divide-two-integers) | ★★ | 2 | 1 |
+| 2021-10-11 17:19 | [#273 整数转换英文表示](https://leetcode-cn.com/problems/integer-to-english-words) | ★★★ | 1 | 1 |
+| 2021-10-10 14:36 | [#441 排列硬币](https://leetcode-cn.com/problems/arranging-coins) | ★ | 1 | 1 |
+| 2021-10-09 04:12 | [#352 将数据流变为多个不相交区间](https://leetcode-cn.com/problems/data-stream-as-disjoint-intervals) | ★★★ | 1 | 1 |
+| 2021-10-08 16:46 | [#187 重复的DNA序列](https://leetcode-cn.com/problems/repeated-dna-sequences) | ★★ | 1 | 1 |
+| 2021-10-07 15:01 | [#434 字符串中的单词数](https://leetcode-cn.com/problems/number-of-segments-in-a-string) | ★ | 1 | 1 |
+| 2021-10-06 00:18 | [#414 第三大的数](https://leetcode-cn.com/problems/third-maximum-number) | ★ | 1 | 1 |
+| 2021-10-05 18:01 | [#284 窥探迭代器](https://leetcode-cn.com/problems/peeking-iterator) | ★★ | 2 | 1 |
 | 2021-10-04 13:18 | [#482 密钥格式化](https://leetcode-cn.com/problems/license-key-formatting) | ★ | 1 | 1 |
 | 2021-10-03 09:21 | [#166 分数到小数](https://leetcode-cn.com/problems/fraction-to-recurring-decimal) | ★★ | 1 | 1 |
 | 2021-10-02 17:46 | [#1436 旅行终点站](https://leetcode-cn.com/problems/destination-city) | ★ | 1 | 1 |
@@ -174,7 +204,6 @@
 | 2021-06-14 20:17 | [#374 猜数字大小](https://leetcode-cn.com/problems/guess-number-higher-or-lower) | ★ | 2 | 2 |
 | 2021-06-12 20:43 | [#1449 数位成本和为目标值的最大数字](https://leetcode-cn.com/problems/form-largest-integer-with-digits-that-add-up-to-target) | ★★★ | 1 | 1 |
 | 2021-06-12 16:50 | [#503 下一个更大元素 II](https://leetcode-cn.com/problems/next-greater-element-ii) | ★★ | 2 | 2 |
-| 2021-06-12 16:36 | [#496 下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i) | ★ | 3 | 2 |
 | 2021-06-12 15:36 | [#20 有效的括号](https://leetcode-cn.com/problems/valid-parentheses) | ★ | 5 | 2 |
 | 2021-06-12 01:28 | [#735 行星碰撞](https://leetcode-cn.com/problems/asteroid-collision) | ★★ | 2 | 1 |
 | 2021-06-11 23:12 | [#739 每日温度](https://leetcode-cn.com/problems/daily-temperatures) | ★★ | 3 | **3** |
@@ -182,7 +211,6 @@
 | 2021-06-10 23:43 | [#92 反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii) | ★★ | 3 | 2 |
 | 2021-06-10 23:00 | [#518 零钱兑换 II](https://leetcode-cn.com/problems/coin-change-2) | ★★ | 12 | **4** |
 | 2021-06-09 22:33 | [#141 环形链表](https://leetcode-cn.com/problems/linked-list-cycle) | ★ | 6 | 2 |
-| 2021-06-09 22:23 | [#237 删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list) | ★ | 1 | 1 |
 | 2021-06-09 21:26 | [#879 盈利计划](https://leetcode-cn.com/problems/profitable-schemes) | ★★★ | 1 | 1 |
 | 2021-06-08 23:51 | [#153 寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array) | ★★ | 6 | 2 |
 | 2021-06-08 23:49 | [#1049 最后一块石头的重量 II](https://leetcode-cn.com/problems/last-stone-weight-ii) | ★★ | 1 | 1 |
@@ -234,7 +262,6 @@
 | 2021-05-15 17:21 | [#13 罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer) | ★ | 1 | 1 |
 | 2021-05-14 22:01 | [#37 解数独](https://leetcode-cn.com/problems/sudoku-solver) | ★★★ | 3 | **3** |
 | 2021-05-14 07:09 | [#12 整数转罗马数字](https://leetcode-cn.com/problems/integer-to-roman) | ★★ | 1 | 1 |
-| 2021-05-13 23:39 | [#301 删除无效的括号](https://leetcode-cn.com/problems/remove-invalid-parentheses) | ★★★ | 2 | 1 |
 | 2021-05-13 07:58 | [#22 括号生成](https://leetcode-cn.com/problems/generate-parentheses) | ★★ | 12 | **5** |
 | 2021-05-13 07:40 | [#1269 停在原地的方案数](https://leetcode-cn.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps) | ★★★ | 1 | 1 |
 | 2021-05-13 06:48 | [#996 正方形数组的数目](https://leetcode-cn.com/problems/number-of-squareful-arrays) | ★★★ | 4 | 1 |
@@ -434,7 +461,6 @@
 | 2019-12-19 23:51 | [#309 最佳买卖股票时机含冷冻期](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown) | ★★ | 1 | 1 |
 | 2019-12-16 17:58 | [#287 寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number) | ★★ | 1 | 1 |
 | 2019-12-15 18:09 | [#5 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring) | ★★ | 8 | 2 |
-| 2019-12-13 23:14 | [#240 搜索二维矩阵 II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii) | ★★ | 1 | 1 |
 | 2019-12-13 15:50 | [#238 除自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self) | ★★ | 1 | 1 |
 | 2019-12-12 23:46 | [#234 回文链表](https://leetcode-cn.com/problems/palindrome-linked-list) | ★ | 1 | 1 |
 | 2019-12-09 18:18 | [#152 乘积最大子数组](https://leetcode-cn.com/problems/maximum-product-subarray) | ★★ | 2 | 1 |
