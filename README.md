@@ -12,6 +12,9 @@
 
 | 最近提交 | 题目 | 题目难度 | 提交 | 重刷 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-11-06 17:32 | [#268 丢失的数字](https://leetcode-cn.com/problems/missing-number) | ★ | 1 | 1 |
+| 2021-11-05 17:43 | [#1218 最长定差子序列](https://leetcode-cn.com/problems/longest-arithmetic-subsequence-of-given-difference) | ★★ | 8 | 2 |
+| 2021-11-04 22:03 | [#367 有效的完全平方数](https://leetcode-cn.com/problems/valid-perfect-square) | ★ | 1 | 1 |
 | 2021-11-03 21:10 | [#407 接雨水 II](https://leetcode-cn.com/problems/trapping-rain-water-ii) | ★★★ | 1 | 1 |
 | 2021-11-02 21:36 | [#237 删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list) | ★ | 2 | 2 |
 | 2021-11-01 21:53 | [#575 分糖果](https://leetcode-cn.com/problems/distribute-candies) | ★ | 1 | 1 |
@@ -284,7 +287,6 @@
 | 2021-05-06 23:10 | [#221 最大正方形](https://leetcode-cn.com/problems/maximal-square) | ★★ | 4 | **3** |
 | 2021-05-06 22:04 | [#740 删除并获得点数](https://leetcode-cn.com/problems/delete-and-earn) | ★★ | 2 | 1 |
 | 2021-05-06 22:01 | [#1720 解码异或后的数组](https://leetcode-cn.com/problems/decode-xored-array) | ★ | 1 | 1 |
-| 2021-05-05 16:48 | [#1218 最长定差子序列](https://leetcode-cn.com/problems/longest-arithmetic-subsequence-of-given-difference) | ★★ | 7 | 1 |
 | 2021-05-05 01:49 | [#746 使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs) | ★ | 2 | 1 |
 | 2021-05-04 23:25 | [#337 打家劫舍 III](https://leetcode-cn.com/problems/house-robber-iii) | ★★ | 9 | **4** |
 | 2021-05-04 21:27 | [#72 编辑距离](https://leetcode-cn.com/problems/edit-distance) | ★★★ | 6 | **4** |
@@ -295,7 +297,7 @@
 | 2021-05-03 10:53 | [#7 整数反转](https://leetcode-cn.com/problems/reverse-integer) | ★ | 1 | 1 |
 | 2021-05-02 10:44 | [#554 砖墙](https://leetcode-cn.com/problems/brick-wall) | ★★ | 1 | 1 |
 | 2021-05-02 03:49 | [#剑指 Offer 63 股票的最大利润](https://leetcode-cn.com/problems/gu-piao-de-zui-da-li-run-lcof) | ★★ | 4 | 1 |
-| 2021-05-01 21:08 | [#690 员工的重要性](https://leetcode-cn.com/problems/employee-importance) | ★ | 1 | 1 |
+| 2021-05-01 21:08 | [#690 员工的重要性](https://leetcode-cn.com/problems/employee-importance) | ★★ | 1 | 1 |
 | 2021-04-30 20:34 | [#137 只出现一次的数字 II](https://leetcode-cn.com/problems/single-number-ii) | ★★ | 1 | 1 |
 | 2021-04-29 22:27 | [#403 青蛙过河](https://leetcode-cn.com/problems/frog-jump) | ★★★ | 1 | 1 |
 | 2021-04-29 11:00 | [#322 零钱兑换](https://leetcode-cn.com/problems/coin-change) | ★★ | 8 | **3** |
