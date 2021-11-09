@@ -12,6 +12,9 @@
 
 | 最近提交 | 题目 | 题目难度 | 提交 | 重刷 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-11-09 21:34 | [#488 祖玛游戏](https://leetcode-cn.com/problems/zuma-game) | ★★★ | 1 | 1 |
+| 2021-11-08 10:52 | [#299 猜数字游戏](https://leetcode-cn.com/problems/bulls-and-cows) | ★★ | 1 | 1 |
+| 2021-11-07 19:42 | [#598 范围求和 II](https://leetcode-cn.com/problems/range-addition-ii) | ★ | 1 | 1 |
 | 2021-11-06 17:32 | [#268 丢失的数字](https://leetcode-cn.com/problems/missing-number) | ★ | 1 | 1 |
 | 2021-11-05 17:43 | [#1218 最长定差子序列](https://leetcode-cn.com/problems/longest-arithmetic-subsequence-of-given-difference) | ★★ | 8 | 2 |
 | 2021-11-04 22:03 | [#367 有效的完全平方数](https://leetcode-cn.com/problems/valid-perfect-square) | ★ | 1 | 1 |
@@ -136,7 +139,7 @@
 | 2021-07-19 07:43 | [#1838 最高频元素的频数](https://leetcode-cn.com/problems/frequency-of-the-most-frequent-element) | ★★ | 1 | 1 |
 | 2021-07-18 14:58 | [#53 最大子序和](https://leetcode-cn.com/problems/maximum-subarray) | ★ | 19 | **7** |
 | 2021-07-18 14:50 | [#217 存在重复元素](https://leetcode-cn.com/problems/contains-duplicate) | ★ | 3 | 1 |
-| 2021-07-18 11:50 | [#189 旋转数组](https://leetcode-cn.com/problems/rotate-array) | ★★ | 2 | 2 |
+| 2021-07-18 11:50 | [#189 轮转数组](https://leetcode-cn.com/problems/rotate-array) | ★★ | 2 | 2 |
 | 2021-07-18 11:28 | [#977 有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array) | ★ | 1 | 1 |
 | 2021-07-18 10:08 | [#面试题 10.02 变位词组](https://leetcode-cn.com/problems/group-anagrams-lcci) | ★★ | 1 | 1 |
 | 2021-07-17 17:13 | [#35 搜索插入位置](https://leetcode-cn.com/problems/search-insert-position) | ★ | 5 | 2 |
