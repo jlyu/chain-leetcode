@@ -12,6 +12,8 @@
 
 | 最近提交 | 题目 | 题目难度 | 提交 | 重刷 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-11-11 21:29 | [#629 K个逆序对数组](https://leetcode-cn.com/problems/k-inverse-pairs-array) | ★★★ | 1 | 1 |
+| 2021-11-10 22:18 | [#495 提莫攻击](https://leetcode-cn.com/problems/teemo-attacking) | ★ | 1 | 1 |
 | 2021-11-09 21:34 | [#488 祖玛游戏](https://leetcode-cn.com/problems/zuma-game) | ★★★ | 1 | 1 |
 | 2021-11-08 10:52 | [#299 猜数字游戏](https://leetcode-cn.com/problems/bulls-and-cows) | ★★ | 1 | 1 |
 | 2021-11-07 19:42 | [#598 范围求和 II](https://leetcode-cn.com/problems/range-addition-ii) | ★ | 1 | 1 |
