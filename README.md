@@ -12,6 +12,14 @@
 
 | 最近提交 | 题目 | 题目难度 | 提交 | 重刷 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-11-19 21:53 | [#397 整数替换](https://leetcode-cn.com/problems/integer-replacement) | ★★ | 1 | 1 |
+| 2021-11-18 21:55 | [#563 二叉树的坡度](https://leetcode-cn.com/problems/binary-tree-tilt) | ★ | 1 | 1 |
+| 2021-11-17 22:18 | [#318 最大单词长度乘积](https://leetcode-cn.com/problems/maximum-product-of-word-lengths) | ★★ | 1 | 1 |
+| 2021-11-16 22:11 | [#391 完美矩形](https://leetcode-cn.com/problems/perfect-rectangle) | ★★★ | 1 | 1 |
+| 2021-11-15 17:18 | [#319 灯泡开关](https://leetcode-cn.com/problems/bulb-switcher) | ★★ | 1 | 1 |
+| 2021-11-14 15:16 | [#677 键值映射](https://leetcode-cn.com/problems/map-sum-pairs) | ★★ | 1 | 1 |
+| 2021-11-14 15:15 | [#520 检测大写字母](https://leetcode-cn.com/problems/detect-capital) | ★ | 2 | 2 |
+| 2021-11-12 21:12 | [#375 猜数字大小 II](https://leetcode-cn.com/problems/guess-number-higher-or-lower-ii) | ★★ | 1 | 1 |
 | 2021-11-11 21:29 | [#629 K个逆序对数组](https://leetcode-cn.com/problems/k-inverse-pairs-array) | ★★★ | 1 | 1 |
 | 2021-11-10 22:18 | [#495 提莫攻击](https://leetcode-cn.com/problems/teemo-attacking) | ★ | 1 | 1 |
 | 2021-11-09 21:34 | [#488 祖玛游戏](https://leetcode-cn.com/problems/zuma-game) | ★★★ | 1 | 1 |
