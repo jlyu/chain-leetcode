@@ -12,6 +12,20 @@
 
 | 最近提交 | 题目 | 题目难度 | 提交 | 重刷 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-12-03 20:44 | [#1005 K 次取反后最大化的数组和](https://leetcode-cn.com/problems/maximize-sum-of-array-after-k-negations) | ★ | 1 | 1 |
+| 2021-12-02 20:11 | [#506 相对名次](https://leetcode-cn.com/problems/relative-ranks) | ★ | 1 | 1 |
+| 2021-12-01 22:13 | [#1446 连续字符](https://leetcode-cn.com/problems/consecutive-characters) | ★ | 2 | 1 |
+| 2021-11-30 22:40 | [#400 第 N 位数字](https://leetcode-cn.com/problems/nth-digit) | ★★ | 1 | 1 |
+| 2021-11-29 18:14 | [#786 第 K 个最小的素数分数](https://leetcode-cn.com/problems/k-th-smallest-prime-fraction) | ★★★ | 1 | 1 |
+| 2021-11-28 17:59 | [#438 找到字符串中所有字母异位词](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string) | ★★ | 3 | 2 |
+| 2021-11-27 20:39 | [#519 随机翻转矩阵](https://leetcode-cn.com/problems/random-flip-matrix) | ★★ | 1 | 1 |
+| 2021-11-26 22:12 | [#700 二叉搜索树中的搜索](https://leetcode-cn.com/problems/search-in-a-binary-search-tree) | ★ | 2 | 2 |
+| 2021-11-25 22:38 | [#458 可怜的小猪](https://leetcode-cn.com/problems/poor-pigs) | ★★★ | 1 | 1 |
+| 2021-11-24 21:03 | [#423 从英文中重建数字](https://leetcode-cn.com/problems/reconstruct-original-digits-from-english) | ★★ | 1 | 1 |
+| 2021-11-23 20:44 | [#859 亲密字符串](https://leetcode-cn.com/problems/buddy-strings) | ★ | 1 | 1 |
+| 2021-11-22 18:07 | [#384 打乱数组](https://leetcode-cn.com/problems/shuffle-an-array) | ★★ | 1 | 1 |
+| 2021-11-21 17:42 | [#559 N 叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree) | ★ | 1 | 1 |
+| 2021-11-20 11:10 | [#594 最长和谐子序列](https://leetcode-cn.com/problems/longest-harmonious-subsequence) | ★ | 1 | 1 |
 | 2021-11-19 21:53 | [#397 整数替换](https://leetcode-cn.com/problems/integer-replacement) | ★★ | 1 | 1 |
 | 2021-11-18 21:55 | [#563 二叉树的坡度](https://leetcode-cn.com/problems/binary-tree-tilt) | ★ | 1 | 1 |
 | 2021-11-17 22:18 | [#318 最大单词长度乘积](https://leetcode-cn.com/problems/maximum-product-of-word-lengths) | ★★ | 1 | 1 |
@@ -147,7 +161,7 @@
 | 2021-07-19 21:23 | [#63 不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii) | ★★ | 17 | **3** |
 | 2021-07-19 08:05 | [#62 不同路径](https://leetcode-cn.com/problems/unique-paths) | ★★ | 6 | **4** |
 | 2021-07-19 07:43 | [#1838 最高频元素的频数](https://leetcode-cn.com/problems/frequency-of-the-most-frequent-element) | ★★ | 1 | 1 |
-| 2021-07-18 14:58 | [#53 最大子序和](https://leetcode-cn.com/problems/maximum-subarray) | ★ | 19 | **7** |
+| 2021-07-18 14:58 | [#53 最大子数组和](https://leetcode-cn.com/problems/maximum-subarray) | ★ | 19 | **7** |
 | 2021-07-18 14:50 | [#217 存在重复元素](https://leetcode-cn.com/problems/contains-duplicate) | ★ | 3 | 1 |
 | 2021-07-18 11:50 | [#189 轮转数组](https://leetcode-cn.com/problems/rotate-array) | ★★ | 2 | 2 |
 | 2021-07-18 11:28 | [#977 有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array) | ★ | 1 | 1 |
@@ -335,7 +349,6 @@
 | 2021-04-12 22:15 | [#222 完全二叉树的节点个数](https://leetcode-cn.com/problems/count-complete-tree-nodes) | ★★ | 1 | 1 |
 | 2021-04-12 21:41 | [#179 最大数](https://leetcode-cn.com/problems/largest-number) | ★★ | 1 | 1 |
 | 2021-04-11 22:39 | [#450 删除二叉搜索树中的节点](https://leetcode-cn.com/problems/delete-node-in-a-bst) | ★★ | 1 | 1 |
-| 2021-04-11 21:57 | [#700 二叉搜索树中的搜索](https://leetcode-cn.com/problems/search-in-a-binary-search-tree) | ★ | 1 | 1 |
 | 2021-04-11 21:27 | [#98 验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree) | ★★ | 16 | **3** |
 | 2021-04-11 21:01 | [#145 二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal) | ★ | 1 | 1 |
 | 2021-04-11 20:40 | [#460 LFU 缓存](https://leetcode-cn.com/problems/lfu-cache) | ★★★ | 2 | 2 |
@@ -396,7 +409,7 @@
 | 2021-02-04 22:16 | [#643 子数组最大平均数 I](https://leetcode-cn.com/problems/maximum-average-subarray-i) | ★ | 1 | 1 |
 | 2021-02-03 21:31 | [#480 滑动窗口中位数](https://leetcode-cn.com/problems/sliding-window-median) | ★★★ | 1 | 1 |
 | 2021-02-02 23:08 | [#424 替换后的最长重复字符](https://leetcode-cn.com/problems/longest-repeating-character-replacement) | ★★ | 1 | 1 |
-| 2021-02-01 21:47 | [#888 公平的糖果棒交换](https://leetcode-cn.com/problems/fair-candy-swap) | ★ | 1 | 1 |
+| 2021-02-01 21:47 | [#888 公平的糖果交换](https://leetcode-cn.com/problems/fair-candy-swap) | ★ | 1 | 1 |
 | 2021-01-31 00:28 | [#839 相似字符串组](https://leetcode-cn.com/problems/similar-string-groups) | ★★★ | 1 | 1 |
 | 2021-01-30 10:39 | [#778 水位上升的泳池中游泳](https://leetcode-cn.com/problems/swim-in-rising-water) | ★★★ | 1 | 1 |
 | 2021-01-29 21:51 | [#1631 最小体力消耗路径](https://leetcode-cn.com/problems/path-with-minimum-effort) | ★★ | 1 | 1 |
@@ -471,7 +484,6 @@
 | 2020-01-14 15:14 | [#543 二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree) | ★ | 10 | 2 |
 | 2020-01-03 23:07 | [#647 回文子串](https://leetcode-cn.com/problems/palindromic-substrings) | ★★ | 3 | 1 |
 | 2020-01-03 14:15 | [#621 任务调度器](https://leetcode-cn.com/problems/task-scheduler) | ★★ | 1 | 1 |
-| 2019-12-30 22:28 | [#438 找到字符串中所有字母异位词](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string) | ★★ | 1 | 1 |
 | 2019-12-24 15:29 | [#347 前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements) | ★★ | 2 | 1 |
 | 2019-12-19 23:51 | [#309 最佳买卖股票时机含冷冻期](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown) | ★★ | 1 | 1 |
 | 2019-12-16 17:58 | [#287 寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number) | ★★ | 1 | 1 |
