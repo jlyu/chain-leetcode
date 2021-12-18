@@ -12,6 +12,21 @@
 
 | 最近提交 | 题目 | 题目难度 | 提交 | 重刷 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-12-18 19:32 | [#419 甲板上的战舰](https://leetcode-cn.com/problems/battleships-in-a-board) | ★★ | 1 | 1 |
+| 2021-12-17 18:40 | [#1518 换酒问题](https://leetcode-cn.com/problems/water-bottles) | ★ | 1 | 1 |
+| 2021-12-16 21:15 | [#1610 可见点的最大数目](https://leetcode-cn.com/problems/maximum-number-of-visible-points) | ★★★ | 1 | 1 |
+| 2021-12-15 21:18 | [#851 喧闹和富有](https://leetcode-cn.com/problems/loud-and-rich) | ★★ | 1 | 1 |
+| 2021-12-14 21:56 | [#630 课程表 III](https://leetcode-cn.com/problems/course-schedule-iii) | ★★★ | 1 | 1 |
+| 2021-12-13 17:12 | [#807 保持城市天际线](https://leetcode-cn.com/problems/max-increase-to-keep-city-skyline) | ★★ | 1 | 1 |
+| 2021-12-12 21:30 | [#709 转换成小写字母](https://leetcode-cn.com/problems/to-lower-case) | ★ | 1 | 1 |
+| 2021-12-11 20:06 | [#911 在线选举](https://leetcode-cn.com/problems/online-election) | ★★ | 1 | 1 |
+| 2021-12-10 21:29 | [#748 最短补全词](https://leetcode-cn.com/problems/shortest-completing-word) | ★ | 1 | 1 |
+| 2021-12-09 21:00 | [#794 有效的井字游戏](https://leetcode-cn.com/problems/valid-tic-tac-toe-state) | ★★ | 1 | 1 |
+| 2021-12-08 20:37 | [#689 三个无重叠子数组的最大和](https://leetcode-cn.com/problems/maximum-sum-of-3-non-overlapping-subarrays) | ★★★ | 1 | 1 |
+| 2021-12-07 21:57 | [#1034 边界着色](https://leetcode-cn.com/problems/coloring-a-border) | ★★ | 1 | 1 |
+| 2021-12-06 21:25 | [#1816 截断句子](https://leetcode-cn.com/problems/truncate-sentence) | ★ | 1 | 1 |
+| 2021-12-05 21:53 | [#372 超级次方](https://leetcode-cn.com/problems/super-pow) | ★★ | 1 | 1 |
+| 2021-12-04 20:34 | [#383 赎金信](https://leetcode-cn.com/problems/ransom-note) | ★ | 1 | 1 |
 | 2021-12-03 20:44 | [#1005 K 次取反后最大化的数组和](https://leetcode-cn.com/problems/maximize-sum-of-array-after-k-negations) | ★ | 1 | 1 |
 | 2021-12-02 20:11 | [#506 相对名次](https://leetcode-cn.com/problems/relative-ranks) | ★ | 1 | 1 |
 | 2021-12-01 22:13 | [#1446 连续字符](https://leetcode-cn.com/problems/consecutive-characters) | ★ | 2 | 1 |
@@ -83,7 +98,7 @@
 | 2021-09-26 02:34 | [#371 两整数之和](https://leetcode-cn.com/problems/sum-of-two-integers) | ★★ | 2 | 1 |
 | 2021-09-25 20:59 | [#583 两个字符串的删除操作](https://leetcode-cn.com/problems/delete-operation-for-two-strings) | ★★ | 1 | 1 |
 | 2021-09-24 21:44 | [#430 扁平化多级双向链表](https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list) | ★★ | 1 | 1 |
-| 2021-09-23 20:55 | [#326 3的幂](https://leetcode-cn.com/problems/power-of-three) | ★ | 1 | 1 |
+| 2021-09-23 20:55 | [#326 3 的幂](https://leetcode-cn.com/problems/power-of-three) | ★ | 1 | 1 |
 | 2021-09-22 20:50 | [#725 分隔链表](https://leetcode-cn.com/problems/split-linked-list-in-parts) | ★★ | 1 | 1 |
 | 2021-09-21 21:35 | [#58 最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word) | ★ | 1 | 1 |
 | 2021-09-20 16:10 | [#650 只有两个键的键盘](https://leetcode-cn.com/problems/2-keys-keyboard) | ★★ | 3 | 1 |
@@ -321,7 +336,7 @@
 | 2021-05-03 23:25 | [#354 俄罗斯套娃信封问题](https://leetcode-cn.com/problems/russian-doll-envelopes) | ★★★ | 6 | **3** |
 | 2021-05-03 21:52 | [#1143 最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence) | ★★ | 4 | **3** |
 | 2021-05-03 11:42 | [#300 最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence) | ★★ | 9 | **4** |
-| 2021-05-03 10:53 | [#7 整数反转](https://leetcode-cn.com/problems/reverse-integer) | ★ | 1 | 1 |
+| 2021-05-03 10:53 | [#7 整数反转](https://leetcode-cn.com/problems/reverse-integer) | ★★ | 1 | 1 |
 | 2021-05-02 10:44 | [#554 砖墙](https://leetcode-cn.com/problems/brick-wall) | ★★ | 1 | 1 |
 | 2021-05-02 03:49 | [#剑指 Offer 63 股票的最大利润](https://leetcode-cn.com/problems/gu-piao-de-zui-da-li-run-lcof) | ★★ | 4 | 1 |
 | 2021-05-01 21:08 | [#690 员工的重要性](https://leetcode-cn.com/problems/employee-importance) | ★★ | 1 | 1 |
