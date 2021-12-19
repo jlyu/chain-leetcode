@@ -12,6 +12,11 @@
 
 | 最近提交 | 题目 | 题目难度 | 提交 | 重刷 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-12-19 23:09 | [#1289 下降路径最小和  II](https://leetcode-cn.com/problems/minimum-falling-path-sum-ii) | ★★★ | 6 | 2 |
+| 2021-12-19 22:59 | [#120 三角形最小路径和](https://leetcode-cn.com/problems/triangle) | ★★ | 3 | **3** |
+| 2021-12-19 22:35 | [#63 不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii) | ★★ | 18 | **4** |
+| 2021-12-19 21:37 | [#62 不同路径](https://leetcode-cn.com/problems/unique-paths) | ★★ | 7 | **5** |
+| 2021-12-19 20:11 | [#997 找到小镇的法官](https://leetcode-cn.com/problems/find-the-town-judge) | ★ | 1 | 1 |
 | 2021-12-18 19:32 | [#419 甲板上的战舰](https://leetcode-cn.com/problems/battleships-in-a-board) | ★★ | 1 | 1 |
 | 2021-12-17 18:40 | [#1518 换酒问题](https://leetcode-cn.com/problems/water-bottles) | ★ | 1 | 1 |
 | 2021-12-16 21:15 | [#1610 可见点的最大数目](https://leetcode-cn.com/problems/maximum-number-of-visible-points) | ★★★ | 1 | 1 |
@@ -164,17 +169,13 @@
 | 2021-07-22 21:09 | [#138 复制带随机指针的链表](https://leetcode-cn.com/problems/copy-list-with-random-pointer) | ★★ | 6 | **3** |
 | 2021-07-21 21:59 | [#1575 统计所有可行路径](https://leetcode-cn.com/problems/count-all-possible-routes) | ★★★ | 2 | 2 |
 | 2021-07-21 21:09 | [#剑指 Offer 52 两个链表的第一个公共节点](https://leetcode-cn.com/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof) | ★ | 1 | 1 |
-| 2021-07-20 22:58 | [#1289 下降路径最小和  II](https://leetcode-cn.com/problems/minimum-falling-path-sum-ii) | ★★★ | 3 | 1 |
 | 2021-07-20 22:39 | [#931 下降路径最小和](https://leetcode-cn.com/problems/minimum-falling-path-sum) | ★★ | 5 | 2 |
 | 2021-07-20 17:30 | [#121 买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock) | ★ | 3 | **3** |
 | 2021-07-20 17:22 | [#350 两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii) | ★ | 1 | 1 |
 | 2021-07-20 16:48 | [#88 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array) | ★ | 4 | **3** |
 | 2021-07-20 16:32 | [#1 两数之和](https://leetcode-cn.com/problems/two-sum) | ★ | 5 | 2 |
 | 2021-07-20 16:23 | [#1877 数组中最大数对和的最小值](https://leetcode-cn.com/problems/minimize-maximum-pair-sum-in-array) | ★★ | 1 | 1 |
-| 2021-07-19 23:13 | [#120 三角形最小路径和](https://leetcode-cn.com/problems/triangle) | ★★ | 2 | 2 |
 | 2021-07-19 22:17 | [#64 最小路径和](https://leetcode-cn.com/problems/minimum-path-sum) | ★★ | 16 | **3** |
-| 2021-07-19 21:23 | [#63 不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii) | ★★ | 17 | **3** |
-| 2021-07-19 08:05 | [#62 不同路径](https://leetcode-cn.com/problems/unique-paths) | ★★ | 6 | **4** |
 | 2021-07-19 07:43 | [#1838 最高频元素的频数](https://leetcode-cn.com/problems/frequency-of-the-most-frequent-element) | ★★ | 1 | 1 |
 | 2021-07-18 14:58 | [#53 最大子数组和](https://leetcode-cn.com/problems/maximum-subarray) | ★ | 19 | **7** |
 | 2021-07-18 14:50 | [#217 存在重复元素](https://leetcode-cn.com/problems/contains-duplicate) | ★ | 3 | 1 |
