@@ -12,6 +12,14 @@
 
 | 最近提交 | 题目 | 题目难度 | 提交 | 重刷 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-12-21 21:16 | [#1154 一年中的第几天](https://leetcode-cn.com/problems/day-of-the-year) | ★ | 1 | 1 |
+| 2021-12-20 23:28 | [#46 全排列](https://leetcode-cn.com/problems/permutations) | ★★ | 6 | **5** |
+| 2021-12-20 23:11 | [#78 子集](https://leetcode-cn.com/problems/subsets) | ★★ | 7 | **6** |
+| 2021-12-20 23:03 | [#77 组合](https://leetcode-cn.com/problems/combinations) | ★★ | 3 | **3** |
+| 2021-12-20 22:56 | [#40 组合总和 II](https://leetcode-cn.com/problems/combination-sum-ii) | ★★ | 6 | 2 |
+| 2021-12-20 22:36 | [#39 组合总和](https://leetcode-cn.com/problems/combination-sum) | ★★ | 9 | **6** |
+| 2021-12-20 22:22 | [#17 电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number) | ★★ | 6 | **5** |
+| 2021-12-20 16:17 | [#475 供暖器](https://leetcode-cn.com/problems/heaters) | ★★ | 1 | 1 |
 | 2021-12-19 23:09 | [#1289 下降路径最小和  II](https://leetcode-cn.com/problems/minimum-falling-path-sum-ii) | ★★★ | 6 | 2 |
 | 2021-12-19 22:59 | [#120 三角形最小路径和](https://leetcode-cn.com/problems/triangle) | ★★ | 3 | **3** |
 | 2021-12-19 22:35 | [#63 不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii) | ★★ | 18 | **4** |
@@ -230,7 +238,6 @@
 | 2021-06-28 21:08 | [#815 公交路线](https://leetcode-cn.com/problems/bus-routes) | ★★★ | 1 | 1 |
 | 2021-06-27 19:32 | [#909 蛇梯棋](https://leetcode-cn.com/problems/snakes-and-ladders) | ★★ | 1 | 1 |
 | 2021-06-27 03:39 | [#139 单词拆分](https://leetcode-cn.com/problems/word-break) | ★★ | 4 | **3** |
-| 2021-06-26 20:49 | [#78 子集](https://leetcode-cn.com/problems/subsets) | ★★ | 5 | **5** |
 | 2021-06-26 16:56 | [#773 滑动谜题](https://leetcode-cn.com/problems/sliding-puzzle) | ★★★ | 1 | 1 |
 | 2021-06-25 22:15 | [#752 打开转盘锁](https://leetcode-cn.com/problems/open-the-lock) | ★★ | 1 | 1 |
 | 2021-06-24 22:04 | [#149 直线上最多的点数](https://leetcode-cn.com/problems/max-points-on-a-line) | ★★★ | 5 | 1 |
@@ -315,14 +322,9 @@
 | 2021-05-12 07:55 | [#1310 子数组异或查询](https://leetcode-cn.com/problems/xor-queries-of-a-subarray) | ★★ | 1 | 1 |
 | 2021-05-11 22:36 | [#47 全排列 II](https://leetcode-cn.com/problems/permutations-ii) | ★★ | 2 | 1 |
 | 2021-05-11 21:45 | [#1734 解码异或后的排列](https://leetcode-cn.com/problems/decode-xored-permutation) | ★★ | 2 | 1 |
-| 2021-05-11 21:38 | [#46 全排列](https://leetcode-cn.com/problems/permutations) | ★★ | 5 | **4** |
 | 2021-05-10 21:23 | [#216 组合总和 III](https://leetcode-cn.com/problems/combination-sum-iii) | ★★ | 1 | 1 |
 | 2021-05-10 07:50 | [#90 子集 II](https://leetcode-cn.com/problems/subsets-ii) | ★★ | 4 | 2 |
-| 2021-05-10 07:17 | [#77 组合](https://leetcode-cn.com/problems/combinations) | ★★ | 2 | 2 |
-| 2021-05-10 06:52 | [#40 组合总和 II](https://leetcode-cn.com/problems/combination-sum-ii) | ★★ | 4 | 1 |
 | 2021-05-10 06:44 | [#872 叶子相似的树](https://leetcode-cn.com/problems/leaf-similar-trees) | ★ | 2 | 1 |
-| 2021-05-09 21:26 | [#39 组合总和](https://leetcode-cn.com/problems/combination-sum) | ★★ | 7 | **5** |
-| 2021-05-09 14:02 | [#17 电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number) | ★★ | 5 | **4** |
 | 2021-05-09 01:08 | [#1482 制作 m 束花所需的最少天数](https://leetcode-cn.com/problems/minimum-number-of-days-to-make-m-bouquets) | ★★ | 1 | 1 |
 | 2021-05-08 19:25 | [#1723 完成所有工作的最短时间](https://leetcode-cn.com/problems/find-minimum-time-to-finish-all-jobs) | ★★★ | 1 | 1 |
 | 2021-05-07 23:06 | [#304 二维区域和检索 - 矩阵不可变](https://leetcode-cn.com/problems/range-sum-query-2d-immutable) | ★★ | 2 | 2 |
