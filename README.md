@@ -12,6 +12,24 @@
 
 | 最近提交 | 题目 | 题目难度 | 提交 | 重刷 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-12-28 21:39 | [#472 连接词](https://leetcode-cn.com/problems/concatenated-words) | ★★★ | 1 | 1 |
+| 2021-12-28 00:56 | [#51 N 皇后](https://leetcode-cn.com/problems/n-queens) | ★★★ | 7 | 1 |
+| 2021-12-27 19:44 | [#825 适龄的朋友](https://leetcode-cn.com/problems/friends-of-appropriate-ages) | ★★ | 1 | 1 |
+| 2021-12-26 20:34 | [#1078 Bigram 分词](https://leetcode-cn.com/problems/occurrences-after-bigram) | ★ | 1 | 1 |
+| 2021-12-25 20:47 | [#1609 奇偶树](https://leetcode-cn.com/problems/even-odd-tree) | ★★ | 1 | 1 |
+| 2021-12-24 21:08 | [#1705 吃苹果的最大数目](https://leetcode-cn.com/problems/maximum-number-of-eaten-apples) | ★★ | 1 | 1 |
+| 2021-12-23 23:41 | [#111 二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree) | ★ | 3 | **3** |
+| 2021-12-23 23:34 | [#199 二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view) | ★★ | 4 | **3** |
+| 2021-12-23 23:29 | [#104 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree) | ★ | 7 | **6** |
+| 2021-12-23 23:18 | [#102 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal) | ★★ | 5 | **4** |
+| 2021-12-23 22:34 | [#124 二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum) | ★★★ | 6 | **5** |
+| 2021-12-23 22:27 | [#129 求根节点到叶节点数字之和](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers) | ★★ | 4 | **3** |
+| 2021-12-23 22:23 | [#1044 最长重复子串](https://leetcode-cn.com/problems/longest-duplicate-substring) | ★★★ | 1 | 1 |
+| 2021-12-22 23:12 | [#993 二叉树的堂兄弟节点](https://leetcode-cn.com/problems/cousins-in-binary-tree) | ★ | 2 | 2 |
+| 2021-12-22 23:03 | [#130 被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions) | ★★ | 4 | 2 |
+| 2021-12-22 22:20 | [#200 岛屿数量](https://leetcode-cn.com/problems/number-of-islands) | ★★ | 6 | **4** |
+| 2021-12-22 21:13 | [#733 图像渲染](https://leetcode-cn.com/problems/flood-fill) | ★ | 8 | 2 |
+| 2021-12-22 20:31 | [#686 重复叠加字符串匹配](https://leetcode-cn.com/problems/repeated-string-match) | ★★ | 1 | 1 |
 | 2021-12-21 21:16 | [#1154 一年中的第几天](https://leetcode-cn.com/problems/day-of-the-year) | ★ | 1 | 1 |
 | 2021-12-20 23:28 | [#46 全排列](https://leetcode-cn.com/problems/permutations) | ★★ | 6 | **5** |
 | 2021-12-20 23:11 | [#78 子集](https://leetcode-cn.com/problems/subsets) | ★★ | 7 | **6** |
@@ -214,9 +232,6 @@
 | 2021-07-10 20:58 | [#981 基于时间的键值存储](https://leetcode-cn.com/problems/time-based-key-value-store) | ★★ | 1 | 1 |
 | 2021-07-09 20:41 | [#面试题 17.10 主要元素](https://leetcode-cn.com/problems/find-majority-element-lcci) | ★ | 1 | 1 |
 | 2021-07-08 21:35 | [#930 和相同的二元子数组](https://leetcode-cn.com/problems/binary-subarrays-with-sum) | ★★ | 1 | 1 |
-| 2021-07-07 23:42 | [#199 二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view) | ★★ | 2 | 2 |
-| 2021-07-07 23:12 | [#104 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree) | ★ | 6 | **5** |
-| 2021-07-07 23:07 | [#102 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal) | ★★ | 4 | **3** |
 | 2021-07-07 21:43 | [#1711 大餐计数](https://leetcode-cn.com/problems/count-good-meals) | ★★ | 1 | 1 |
 | 2021-07-07 00:00 | [#378 有序矩阵中第 K 小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix) | ★★ | 4 | 2 |
 | 2021-07-06 21:55 | [#1418 点菜展示表](https://leetcode-cn.com/problems/display-table-of-food-orders-in-a-restaurant) | ★★ | 1 | 1 |
@@ -295,7 +310,6 @@
 | 2021-05-25 07:54 | [#1162 地图分析](https://leetcode-cn.com/problems/as-far-from-land-as-possible) | ★★ | 8 | **3** |
 | 2021-05-24 23:16 | [#664 奇怪的打印机](https://leetcode-cn.com/problems/strange-printer) | ★★★ | 1 | 1 |
 | 2021-05-24 22:22 | [#542 01 矩阵](https://leetcode-cn.com/problems/01-matrix) | ★★ | 7 | **3** |
-| 2021-05-24 20:58 | [#200 岛屿数量](https://leetcode-cn.com/problems/number-of-islands) | ★★ | 4 | **3** |
 | 2021-05-23 17:26 | [#1707 与数组中元素的最大异或值](https://leetcode-cn.com/problems/maximum-xor-with-an-element-from-array) | ★★★ | 1 | 1 |
 | 2021-05-23 17:19 | [#127 单词接龙](https://leetcode-cn.com/problems/word-ladder) | ★★★ | 3 | 2 |
 | 2021-05-22 16:25 | [#810 黑板异或游戏](https://leetcode-cn.com/problems/chalkboard-xor-game) | ★★★ | 1 | 1 |
@@ -304,14 +318,8 @@
 | 2021-05-19 21:30 | [#1738 找出第 K 大的异或坐标值](https://leetcode-cn.com/problems/find-kth-largest-xor-coordinate-value) | ★★ | 1 | 1 |
 | 2021-05-19 08:30 | [#515 在每个树行中找最大值](https://leetcode-cn.com/problems/find-largest-value-in-each-tree-row) | ★★ | 1 | 1 |
 | 2021-05-19 08:25 | [#429 N 叉树的层序遍历](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal) | ★★ | 5 | 1 |
-| 2021-05-19 07:43 | [#111 二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree) | ★ | 2 | 2 |
 | 2021-05-19 07:34 | [#103 二叉树的锯齿形层序遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal) | ★★ | 2 | 1 |
 | 2021-05-18 20:56 | [#1442 形成两个异或相等数组的三元组数目](https://leetcode-cn.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor) | ★★ | 1 | 1 |
-| 2021-05-18 00:48 | [#129 求根节点到叶节点数字之和](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers) | ★★ | 2 | 1 |
-| 2021-05-17 23:36 | [#124 二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum) | ★★★ | 3 | **3** |
-| 2021-05-17 22:21 | [#993 二叉树的堂兄弟节点](https://leetcode-cn.com/problems/cousins-in-binary-tree) | ★ | 1 | 1 |
-| 2021-05-16 22:55 | [#130 被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions) | ★★ | 3 | 1 |
-| 2021-05-16 18:30 | [#733 图像渲染](https://leetcode-cn.com/problems/flood-fill) | ★ | 7 | 1 |
 | 2021-05-15 17:21 | [#13 罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer) | ★ | 1 | 1 |
 | 2021-05-14 22:01 | [#37 解数独](https://leetcode-cn.com/problems/sudoku-solver) | ★★★ | 3 | **3** |
 | 2021-05-14 07:09 | [#12 整数转罗马数字](https://leetcode-cn.com/problems/integer-to-roman) | ★★ | 1 | 1 |
@@ -371,7 +379,7 @@
 | 2021-04-11 21:01 | [#145 二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal) | ★ | 1 | 1 |
 | 2021-04-11 20:40 | [#460 LFU 缓存](https://leetcode-cn.com/problems/lfu-cache) | ★★★ | 2 | 2 |
 | 2021-04-11 17:59 | [#264 丑数 II](https://leetcode-cn.com/problems/ugly-number-ii) | ★★ | 1 | 1 |
-| 2021-04-10 18:21 | [#146 LRU 缓存机制](https://leetcode-cn.com/problems/lru-cache) | ★★ | 7 | **3** |
+| 2021-04-10 18:21 | [#146 LRU 缓存](https://leetcode-cn.com/problems/lru-cache) | ★★ | 7 | **3** |
 | 2021-04-10 18:04 | [#263 丑数](https://leetcode-cn.com/problems/ugly-number) | ★ | 1 | 1 |
 | 2021-04-09 20:34 | [#154 寻找旋转排序数组中的最小值 II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii) | ★★★ | 1 | 1 |
 | 2021-04-07 21:47 | [#81 搜索旋转排序数组 II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii) | ★★ | 1 | 1 |
