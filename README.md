@@ -12,6 +12,26 @@
 
 | 最近提交 | 题目 | 题目难度 | 提交 | 重刷 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2022-01-12 21:13 | [#334 递增的三元子序列](https://leetcode-cn.com/problems/increasing-triplet-subsequence) | ★★ | 1 | 1 |
+| 2022-01-11 22:22 | [#28 实现 strStr()](https://leetcode-cn.com/problems/implement-strstr) | ★ | 6 | 2 |
+| 2022-01-11 22:10 | [#1036 逃离大迷宫](https://leetcode-cn.com/problems/escape-a-large-maze) | ★★★ | 1 | 1 |
+| 2022-01-11 00:40 | [#640 求解方程](https://leetcode-cn.com/problems/solve-the-equation) | ★★ | 5 | 1 |
+| 2022-01-10 22:47 | [#306 累加数](https://leetcode-cn.com/problems/additive-number) | ★★ | 1 | 1 |
+| 2022-01-10 22:36 | [#1876 长度为三且各字符不同的子字符串](https://leetcode-cn.com/problems/substrings-of-size-three-with-distinct-characters) | ★ | 2 | 1 |
+| 2022-01-09 17:14 | [#1629 按键持续时间最长的键](https://leetcode-cn.com/problems/slowest-key) | ★ | 2 | 1 |
+| 2022-01-08 23:02 | [#89 格雷编码](https://leetcode-cn.com/problems/gray-code) | ★★ | 1 | 1 |
+| 2022-01-07 20:05 | [#1614 括号的最大嵌套深度](https://leetcode-cn.com/problems/maximum-nesting-depth-of-the-parentheses) | ★ | 1 | 1 |
+| 2022-01-06 20:47 | [#71 简化路径](https://leetcode-cn.com/problems/simplify-path) | ★★ | 1 | 1 |
+| 2022-01-05 20:32 | [#1576 替换所有的问号](https://leetcode-cn.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters) | ★ | 1 | 1 |
+| 2022-01-05 15:33 | [#463 岛屿的周长](https://leetcode-cn.com/problems/island-perimeter) | ★ | 6 | 1 |
+| 2022-01-04 21:01 | [#913 猫和老鼠](https://leetcode-cn.com/problems/cat-and-mouse) | ★★★ | 1 | 1 |
+| 2022-01-03 01:06 | [#1185 一周中的第几天](https://leetcode-cn.com/problems/day-of-the-week) | ★ | 1 | 1 |
+| 2022-01-03 01:06 | [#390 消除游戏](https://leetcode-cn.com/problems/elimination-game) | ★★ | 1 | 1 |
+| 2022-01-01 19:58 | [#2022 将一维数组转变成二维数组](https://leetcode-cn.com/problems/convert-1d-array-into-2d-array) | ★ | 1 | 1 |
+| 2021-12-31 01:20 | [#507 完美数](https://leetcode-cn.com/problems/perfect-number) | ★ | 1 | 1 |
+| 2021-12-30 21:09 | [#846 一手顺子](https://leetcode-cn.com/problems/hand-of-straights) | ★★ | 1 | 1 |
+| 2021-12-29 22:34 | [#912 排序数组](https://leetcode-cn.com/problems/sort-an-array) | ★★ | 4 | 2 |
+| 2021-12-29 21:37 | [#1995 统计特殊四元组](https://leetcode-cn.com/problems/count-special-quadruplets) | ★ | 1 | 1 |
 | 2021-12-28 21:39 | [#472 连接词](https://leetcode-cn.com/problems/concatenated-words) | ★★★ | 1 | 1 |
 | 2021-12-28 00:56 | [#51 N 皇后](https://leetcode-cn.com/problems/n-queens) | ★★★ | 7 | 1 |
 | 2021-12-27 19:44 | [#825 适龄的朋友](https://leetcode-cn.com/problems/friends-of-appropriate-ages) | ★★ | 1 | 1 |
@@ -363,7 +383,6 @@
 | 2021-04-23 21:27 | [#368 最大整除子集](https://leetcode-cn.com/problems/largest-divisible-subset) | ★★ | 1 | 1 |
 | 2021-04-22 21:23 | [#363 矩形区域不超过 K 的最大数值和](https://leetcode-cn.com/problems/max-sum-of-rectangle-no-larger-than-k) | ★★★ | 1 | 1 |
 | 2021-04-21 20:51 | [#91 解码方法](https://leetcode-cn.com/problems/decode-ways) | ★★ | 1 | 1 |
-| 2021-04-20 00:34 | [#28 实现 strStr()](https://leetcode-cn.com/problems/implement-strstr) | ★ | 1 | 1 |
 | 2021-04-19 21:53 | [#27 移除元素](https://leetcode-cn.com/problems/remove-element) | ★ | 1 | 1 |
 | 2021-04-17 21:36 | [#220 存在重复元素 III](https://leetcode-cn.com/problems/contains-duplicate-iii) | ★★ | 1 | 1 |
 | 2021-04-16 10:27 | [#87 扰乱字符串](https://leetcode-cn.com/problems/scramble-string) | ★★★ | 1 | 1 |
