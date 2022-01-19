@@ -12,6 +12,14 @@
 
 | 最近提交 | 题目 | 题目难度 | 提交 | 重刷 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2022-01-19 12:44 | [#438 找到字符串中所有字母异位词](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string) | ★★ | 4 | **3** |
+| 2022-01-19 11:53 | [#219 存在重复元素 II](https://leetcode-cn.com/problems/contains-duplicate-ii) | ★ | 4 | 1 |
+| 2022-01-18 17:31 | [#539 最小时间差](https://leetcode-cn.com/problems/minimum-time-difference) | ★★ | 3 | 1 |
+| 2022-01-17 18:10 | [#1220 统计元音字母序列的数目](https://leetcode-cn.com/problems/count-vowels-permutation) | ★★★ | 1 | 1 |
+| 2022-01-16 16:51 | [#382 链表随机节点](https://leetcode-cn.com/problems/linked-list-random-node) | ★★ | 1 | 1 |
+| 2022-01-15 12:17 | [#1716 计算力扣银行的钱](https://leetcode-cn.com/problems/calculate-money-in-leetcode-bank) | ★ | 1 | 1 |
+| 2022-01-14 21:11 | [#373 查找和最小的 K 对数字](https://leetcode-cn.com/problems/find-k-pairs-with-smallest-sums) | ★★ | 14 | **3** |
+| 2022-01-13 23:28 | [#747 至少是其他数字两倍的最大数](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others) | ★ | 1 | 1 |
 | 2022-01-12 21:13 | [#334 递增的三元子序列](https://leetcode-cn.com/problems/increasing-triplet-subsequence) | ★★ | 1 | 1 |
 | 2022-01-11 22:22 | [#28 实现 strStr()](https://leetcode-cn.com/problems/implement-strstr) | ★ | 6 | 2 |
 | 2022-01-11 22:10 | [#1036 逃离大迷宫](https://leetcode-cn.com/problems/escape-a-large-maze) | ★★★ | 1 | 1 |
@@ -83,7 +91,6 @@
 | 2021-12-01 22:13 | [#1446 连续字符](https://leetcode-cn.com/problems/consecutive-characters) | ★ | 2 | 1 |
 | 2021-11-30 22:40 | [#400 第 N 位数字](https://leetcode-cn.com/problems/nth-digit) | ★★ | 1 | 1 |
 | 2021-11-29 18:14 | [#786 第 K 个最小的素数分数](https://leetcode-cn.com/problems/k-th-smallest-prime-fraction) | ★★★ | 1 | 1 |
-| 2021-11-28 17:59 | [#438 找到字符串中所有字母异位词](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string) | ★★ | 3 | 2 |
 | 2021-11-27 20:39 | [#519 随机翻转矩阵](https://leetcode-cn.com/problems/random-flip-matrix) | ★★ | 1 | 1 |
 | 2021-11-26 22:12 | [#700 二叉搜索树中的搜索](https://leetcode-cn.com/problems/search-in-a-binary-search-tree) | ★ | 2 | 2 |
 | 2021-11-25 22:38 | [#458 可怜的小猪](https://leetcode-cn.com/problems/poor-pigs) | ★★★ | 1 | 1 |
@@ -255,7 +262,6 @@
 | 2021-07-07 21:43 | [#1711 大餐计数](https://leetcode-cn.com/problems/count-good-meals) | ★★ | 1 | 1 |
 | 2021-07-07 00:00 | [#378 有序矩阵中第 K 小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix) | ★★ | 4 | 2 |
 | 2021-07-06 21:55 | [#1418 点菜展示表](https://leetcode-cn.com/problems/display-table-of-food-orders-in-a-restaurant) | ★★ | 1 | 1 |
-| 2021-07-06 00:01 | [#373 查找和最小的K对数字](https://leetcode-cn.com/problems/find-k-pairs-with-smallest-sums) | ★★ | 11 | 2 |
 | 2021-07-05 22:51 | [#1387 将整数按权重排序](https://leetcode-cn.com/problems/sort-integers-by-the-power-value) | ★★ | 7 | 2 |
 | 2021-07-05 21:53 | [#23 合并K个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists) | ★★★ | 5 | **4** |
 | 2021-07-05 21:38 | [#692 前K个高频单词](https://leetcode-cn.com/problems/top-k-frequent-words) | ★★ | 7 | **4** |
