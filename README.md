@@ -12,6 +12,8 @@
 
 | 最近提交 | 题目 | 题目难度 | 提交 | 重刷 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2022-01-21 17:12 | [#1345 跳跃游戏 IV](https://leetcode-cn.com/problems/jump-game-iv) | ★★★ | 4 | 1 |
+| 2022-01-20 16:53 | [#2029 石子游戏 IX](https://leetcode-cn.com/problems/stone-game-ix) | ★★ | 1 | 1 |
 | 2022-01-19 12:44 | [#438 找到字符串中所有字母异位词](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string) | ★★ | 4 | **3** |
 | 2022-01-19 11:53 | [#219 存在重复元素 II](https://leetcode-cn.com/problems/contains-duplicate-ii) | ★ | 4 | 1 |
 | 2022-01-18 17:31 | [#539 最小时间差](https://leetcode-cn.com/problems/minimum-time-difference) | ★★ | 3 | 1 |
