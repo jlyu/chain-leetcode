@@ -12,6 +12,12 @@
 
 | 最近提交 | 题目 | 题目难度 | 提交 | 重刷 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2022-01-27 17:24 | [#2047 句子中的有效单词数](https://leetcode-cn.com/problems/number-of-valid-words-in-a-sentence) | ★ | 5 | 1 |
+| 2022-01-26 20:43 | [#2013 检测正方形](https://leetcode-cn.com/problems/detect-squares) | ★★ | 1 | 1 |
+| 2022-01-25 21:02 | [#1688 比赛中的配对次数](https://leetcode-cn.com/problems/count-of-matches-in-tournament) | ★ | 1 | 1 |
+| 2022-01-24 19:45 | [#2045 到达目的地的第二短时间](https://leetcode-cn.com/problems/second-minimum-time-to-reach-destination) | ★★★ | 1 | 1 |
+| 2022-01-23 12:32 | [#2034 股票价格波动](https://leetcode-cn.com/problems/stock-price-fluctuation) | ★★ | 2 | 1 |
+| 2022-01-22 15:40 | [#1332 删除回文子序列](https://leetcode-cn.com/problems/remove-palindromic-subsequences) | ★ | 1 | 1 |
 | 2022-01-21 17:12 | [#1345 跳跃游戏 IV](https://leetcode-cn.com/problems/jump-game-iv) | ★★★ | 4 | 1 |
 | 2022-01-20 16:53 | [#2029 石子游戏 IX](https://leetcode-cn.com/problems/stone-game-ix) | ★★ | 1 | 1 |
 | 2022-01-19 12:44 | [#438 找到字符串中所有字母异位词](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string) | ★★ | 4 | **3** |
