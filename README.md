@@ -12,6 +12,15 @@
 
 | 最近提交 | 题目 | 题目难度 | 提交 | 重刷 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2022-02-05 15:48 | [#1219 黄金矿工](https://leetcode-cn.com/problems/path-with-maximum-gold) | ★★ | 1 | 1 |
+| 2022-02-04 21:24 | [#1725 可以形成最大正方形的矩形数目](https://leetcode-cn.com/problems/number-of-rectangles-that-can-form-the-largest-square) | ★ | 2 | 1 |
+| 2022-02-03 17:28 | [#1414 和为 K 的最少斐波那契数字数目](https://leetcode-cn.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) | ★★ | 7 | 1 |
+| 2022-02-02 11:03 | [#2000 反转单词前缀](https://leetcode-cn.com/problems/reverse-prefix-of-word) | ★ | 1 | 1 |
+| 2022-02-01 23:28 | [#1763 最长的美好子字符串](https://leetcode-cn.com/problems/longest-nice-substring) | ★ | 5 | 1 |
+| 2022-01-31 13:02 | [#1342 将数字变成 0 的操作次数](https://leetcode-cn.com/problems/number-of-steps-to-reduce-a-number-to-zero) | ★ | 1 | 1 |
+| 2022-01-30 14:40 | [#884 两句话中的不常见单词](https://leetcode-cn.com/problems/uncommon-words-from-two-sentences) | ★ | 3 | 1 |
+| 2022-01-29 13:45 | [#1765 地图中的最高点](https://leetcode-cn.com/problems/map-of-highest-peak) | ★★ | 1 | 1 |
+| 2022-01-28 23:16 | [#1996 游戏中弱角色的数量](https://leetcode-cn.com/problems/the-number-of-weak-characters-in-the-game) | ★★ | 4 | 1 |
 | 2022-01-27 17:24 | [#2047 句子中的有效单词数](https://leetcode-cn.com/problems/number-of-valid-words-in-a-sentence) | ★ | 5 | 1 |
 | 2022-01-26 20:43 | [#2013 检测正方形](https://leetcode-cn.com/problems/detect-squares) | ★★ | 1 | 1 |
 | 2022-01-25 21:02 | [#1688 比赛中的配对次数](https://leetcode-cn.com/problems/count-of-matches-in-tournament) | ★ | 1 | 1 |
@@ -152,7 +161,7 @@
 | 2021-10-08 16:46 | [#187 重复的DNA序列](https://leetcode-cn.com/problems/repeated-dna-sequences) | ★★ | 1 | 1 |
 | 2021-10-07 15:01 | [#434 字符串中的单词数](https://leetcode-cn.com/problems/number-of-segments-in-a-string) | ★ | 1 | 1 |
 | 2021-10-06 00:18 | [#414 第三大的数](https://leetcode-cn.com/problems/third-maximum-number) | ★ | 1 | 1 |
-| 2021-10-05 18:01 | [#284 窥探迭代器](https://leetcode-cn.com/problems/peeking-iterator) | ★★ | 2 | 1 |
+| 2021-10-05 18:01 | [#284 顶端迭代器](https://leetcode-cn.com/problems/peeking-iterator) | ★★ | 2 | 1 |
 | 2021-10-04 13:18 | [#482 密钥格式化](https://leetcode-cn.com/problems/license-key-formatting) | ★ | 1 | 1 |
 | 2021-10-03 09:21 | [#166 分数到小数](https://leetcode-cn.com/problems/fraction-to-recurring-decimal) | ★★ | 1 | 1 |
 | 2021-10-02 17:46 | [#1436 旅行终点站](https://leetcode-cn.com/problems/destination-city) | ★ | 1 | 1 |
@@ -317,7 +326,7 @@
 | 2021-06-08 23:51 | [#153 寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array) | ★★ | 6 | 2 |
 | 2021-06-08 23:49 | [#1049 最后一块石头的重量 II](https://leetcode-cn.com/problems/last-stone-weight-ii) | ★★ | 1 | 1 |
 | 2021-06-07 23:58 | [#33 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array) | ★★ | 12 | **4** |
-| 2021-06-07 22:26 | [#69 Sqrt(x)](https://leetcode-cn.com/problems/sqrtx) | ★ | 1 | 1 |
+| 2021-06-07 22:26 | [#69 x 的平方根 ](https://leetcode-cn.com/problems/sqrtx) | ★ | 1 | 1 |
 | 2021-06-07 18:47 | [#494 目标和](https://leetcode-cn.com/problems/target-sum) | ★★ | 5 | **3** |
 | 2021-06-06 14:01 | [#474 一和零](https://leetcode-cn.com/problems/ones-and-zeroes) | ★★ | 1 | 1 |
 | 2021-06-05 12:08 | [#203 移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements) | ★ | 2 | 1 |
