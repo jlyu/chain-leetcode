@@ -12,7 +12,13 @@
 
 | 最近提交 | 题目 | 题目难度 | 提交 | 重刷 |
 | ---- | ---- | ---- | ---- | ---- |
-| 2022-02-05 15:48 | [#1219 黄金矿工](https://leetcode-cn.com/problems/path-with-maximum-gold) | ★★ | 1 | 1 |
+| 2022-02-11 20:14 | [#1984 学生分数的最小差值](https://leetcode-cn.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores) | ★ | 1 | 1 |
+| 2022-02-10 20:33 | [#1447 最简分数](https://leetcode-cn.com/problems/simplified-fractions) | ★★ | 1 | 1 |
+| 2022-02-09 23:23 | [#2006 差的绝对值为 K 的数对数目](https://leetcode-cn.com/problems/count-number-of-pairs-with-absolute-difference-k) | ★ | 2 | 1 |
+| 2022-02-08 12:11 | [#1001 网格照明](https://leetcode-cn.com/problems/grid-illumination) | ★★★ | 1 | 1 |
+| 2022-02-07 02:58 | [#1405 最长快乐字符串](https://leetcode-cn.com/problems/longest-happy-string) | ★★ | 3 | 1 |
+| 2022-02-06 16:16 | [#1219 黄金矿工](https://leetcode-cn.com/problems/path-with-maximum-gold) | ★★ | 3 | 2 |
+| 2022-02-06 00:20 | [#1748 唯一元素的和](https://leetcode-cn.com/problems/sum-of-unique-elements) | ★ | 2 | 1 |
 | 2022-02-04 21:24 | [#1725 可以形成最大正方形的矩形数目](https://leetcode-cn.com/problems/number-of-rectangles-that-can-form-the-largest-square) | ★ | 2 | 1 |
 | 2022-02-03 17:28 | [#1414 和为 K 的最少斐波那契数字数目](https://leetcode-cn.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) | ★★ | 7 | 1 |
 | 2022-02-02 11:03 | [#2000 反转单词前缀](https://leetcode-cn.com/problems/reverse-prefix-of-word) | ★ | 1 | 1 |
