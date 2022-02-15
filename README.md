@@ -12,6 +12,12 @@
 
 | 最近提交 | 题目 | 题目难度 | 提交 | 重刷 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2022-02-15 22:20 | [#459 重复的子字符串](https://leetcode-cn.com/problems/repeated-substring-pattern) | ★ | 4 | 1 |
+| 2022-02-15 21:46 | [#1380 矩阵中的幸运数](https://leetcode-cn.com/problems/lucky-numbers-in-a-matrix) | ★ | 1 | 1 |
+| 2022-02-14 20:28 | [#2148 元素计数](https://leetcode-cn.com/problems/count-elements-with-strictly-smaller-and-greater-elements) | ★ | 2 | 1 |
+| 2022-02-14 17:56 | [#540 有序数组中的单一元素](https://leetcode-cn.com/problems/single-element-in-a-sorted-array) | ★★ | 4 | 1 |
+| 2022-02-13 16:05 | [#1189 “气球” 的最大数量](https://leetcode-cn.com/problems/maximum-number-of-balloons) | ★ | 1 | 1 |
+| 2022-02-12 03:40 | [#1020 飞地的数量](https://leetcode-cn.com/problems/number-of-enclaves) | ★★ | 1 | 1 |
 | 2022-02-11 20:14 | [#1984 学生分数的最小差值](https://leetcode-cn.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores) | ★ | 1 | 1 |
 | 2022-02-10 20:33 | [#1447 最简分数](https://leetcode-cn.com/problems/simplified-fractions) | ★★ | 1 | 1 |
 | 2022-02-09 23:23 | [#2006 差的绝对值为 K 的数对数目](https://leetcode-cn.com/problems/count-number-of-pairs-with-absolute-difference-k) | ★ | 2 | 1 |
