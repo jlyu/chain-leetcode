@@ -12,6 +12,14 @@
 
 | 最近提交 | 题目 | 题目难度 | 提交 | 重刷 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2022-02-19 20:34 | [#969 煎饼排序](https://leetcode-cn.com/problems/pancake-sorting) | ★★ | 1 | 1 |
+| 2022-02-18 21:55 | [#1791 找出星型图的中心节点](https://leetcode-cn.com/problems/find-center-of-star-graph) | ★ | 2 | 1 |
+| 2022-02-17 21:50 | [#1389 按既定顺序创建目标数组](https://leetcode-cn.com/problems/create-target-array-in-the-given-order) | ★ | 1 | 1 |
+| 2022-02-17 21:38 | [#1385 两个数组间的距离值](https://leetcode-cn.com/problems/find-the-distance-value-between-two-arrays) | ★ | 1 | 1 |
+| 2022-02-17 21:07 | [#1374 生成每种字符都是奇数个的字符串](https://leetcode-cn.com/problems/generate-a-string-with-characters-that-have-odd-counts) | ★ | 1 | 1 |
+| 2022-02-17 20:39 | [#688 骑士在棋盘上的概率](https://leetcode-cn.com/problems/knight-probability-in-chessboard) | ★★ | 1 | 1 |
+| 2022-02-16 22:14 | [#2053 数组中第 K 个独一无二的字符串](https://leetcode-cn.com/problems/kth-distinct-string-in-an-array) | ★ | 1 | 1 |
+| 2022-02-16 21:13 | [#1719 重构一棵树的方案数](https://leetcode-cn.com/problems/number-of-ways-to-reconstruct-a-tree) | ★★★ | 1 | 1 |
 | 2022-02-15 22:20 | [#459 重复的子字符串](https://leetcode-cn.com/problems/repeated-substring-pattern) | ★ | 4 | 1 |
 | 2022-02-15 21:46 | [#1380 矩阵中的幸运数](https://leetcode-cn.com/problems/lucky-numbers-in-a-matrix) | ★ | 1 | 1 |
 | 2022-02-14 20:28 | [#2148 元素计数](https://leetcode-cn.com/problems/count-elements-with-strictly-smaller-and-greater-elements) | ★ | 2 | 1 |
