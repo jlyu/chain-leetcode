@@ -12,6 +12,20 @@
 
 | 最近提交 | 题目 | 题目难度 | 提交 | 重刷 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2022-03-05 18:18 | [#521 最长特殊序列 Ⅰ](https://leetcode-cn.com/problems/longest-uncommon-subsequence-i) | ★ | 1 | 1 |
+| 2022-03-04 19:56 | [#2104 子数组范围和](https://leetcode-cn.com/problems/sum-of-subarray-ranges) | ★★ | 1 | 1 |
+| 2022-03-03 21:47 | [#258 各位相加](https://leetcode-cn.com/problems/add-digits) | ★ | 1 | 1 |
+| 2022-03-02 21:46 | [#564 寻找最近的回文数](https://leetcode-cn.com/problems/find-the-closest-palindrome) | ★★★ | 1 | 1 |
+| 2022-03-01 17:07 | [#6 Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion) | ★★ | 1 | 1 |
+| 2022-02-28 20:52 | [#1601 最多可达成的换楼请求数目](https://leetcode-cn.com/problems/maximum-number-of-achievable-transfer-requests) | ★★★ | 1 | 1 |
+| 2022-02-27 20:16 | [#553 最优除法](https://leetcode-cn.com/problems/optimal-division) | ★★ | 1 | 1 |
+| 2022-02-26 13:24 | [#2016 增量元素之间的最大差值](https://leetcode-cn.com/problems/maximum-difference-between-increasing-elements) | ★ | 3 | 1 |
+| 2022-02-25 21:53 | [#537 复数乘法](https://leetcode-cn.com/problems/complex-number-multiplication) | ★★ | 2 | 1 |
+| 2022-02-24 20:28 | [#1706 球会落何处](https://leetcode-cn.com/problems/where-will-the-ball-fall) | ★★ | 1 | 1 |
+| 2022-02-23 23:13 | [#917 仅仅反转字母](https://leetcode-cn.com/problems/reverse-only-letters) | ★ | 4 | 1 |
+| 2022-02-22 21:09 | [#1994 好子集的数目](https://leetcode-cn.com/problems/the-number-of-good-subsets) | ★★★ | 1 | 1 |
+| 2022-02-21 19:33 | [#838 推多米诺](https://leetcode-cn.com/problems/push-dominoes) | ★★ | 1 | 1 |
+| 2022-02-20 16:43 | [#717 1 比特与 2 比特字符](https://leetcode-cn.com/problems/1-bit-and-2-bit-characters) | ★ | 1 | 1 |
 | 2022-02-19 20:34 | [#969 煎饼排序](https://leetcode-cn.com/problems/pancake-sorting) | ★★ | 1 | 1 |
 | 2022-02-18 21:55 | [#1791 找出星型图的中心节点](https://leetcode-cn.com/problems/find-center-of-star-graph) | ★ | 2 | 1 |
 | 2022-02-17 21:50 | [#1389 按既定顺序创建目标数组](https://leetcode-cn.com/problems/create-target-array-in-the-given-order) | ★ | 1 | 1 |
@@ -324,7 +338,7 @@
 | 2021-06-22 21:18 | [#剑指 Offer 38 字符串的排列](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof) | ★★ | 3 | 1 |
 | 2021-06-21 20:41 | [#401 二进制手表](https://leetcode-cn.com/problems/binary-watch) | ★ | 1 | 1 |
 | 2021-06-20 21:24 | [#560 和为 K 的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k) | ★★ | 4 | 2 |
-| 2021-06-20 01:54 | [#1600 皇位继承顺序](https://leetcode-cn.com/problems/throne-inheritance) | ★★ | 1 | 1 |
+| 2021-06-20 01:54 | [#1600 王位继承顺序](https://leetcode-cn.com/problems/throne-inheritance) | ★★ | 1 | 1 |
 | 2021-06-19 20:43 | [#1239 串联字符串的最大长度](https://leetcode-cn.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters) | ★★ | 2 | 1 |
 | 2021-06-18 21:05 | [#483 最小好进制](https://leetcode-cn.com/problems/smallest-good-base) | ★★★ | 1 | 1 |
 | 2021-06-17 20:47 | [#636 函数的独占时间](https://leetcode-cn.com/problems/exclusive-time-of-functions) | ★★ | 4 | 2 |
