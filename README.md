@@ -12,6 +12,13 @@
 
 | 最近提交 | 题目 | 题目难度 | 提交 | 重刷 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2022-04-15 23:25 | [#LCS 02 完成一半题目](https://leetcode-cn.com/problems/WqXACV) | ★ | 2 | 1 |
+| 2022-04-15 20:26 | [#385 迷你语法分析器](https://leetcode-cn.com/problems/mini-parser) | ★★ | 1 | 1 |
+| 2022-04-14 21:59 | [#242 有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram) | ★ | 2 | 1 |
+| 2022-04-14 21:27 | [#1598 文件夹操作日志搜集器](https://leetcode-cn.com/problems/crawler-log-folder) | ★ | 3 | 1 |
+| 2022-04-14 21:12 | [#1656 设计有序流](https://leetcode-cn.com/problems/design-an-ordered-stream) | ★ | 1 | 1 |
+| 2022-04-14 20:32 | [#1021 删除最外层的括号](https://leetcode-cn.com/problems/remove-outermost-parentheses) | ★ | 2 | 1 |
+| 2022-04-14 19:55 | [#1672 最富有客户的资产总量](https://leetcode-cn.com/problems/richest-customer-wealth) | ★ | 2 | 2 |
 | 2022-04-13 22:38 | [#1370 上升下降字符串](https://leetcode-cn.com/problems/increasing-decreasing-string) | ★ | 1 | 1 |
 | 2022-04-13 22:23 | [#2236 判断根结点是否等于子结点之和](https://leetcode-cn.com/problems/root-equals-sum-of-children) | ★ | 1 | 1 |
 | 2022-04-13 22:18 | [#2235 两整数相加](https://leetcode-cn.com/problems/add-two-integers) | ★ | 2 | 1 |
@@ -156,7 +163,6 @@
 | 2022-03-25 21:57 | [#1773 统计匹配检索规则的物品数量](https://leetcode-cn.com/problems/count-items-matching-a-rule) | ★ | 3 | 1 |
 | 2022-03-25 21:36 | [#1431 拥有最多糖果的孩子](https://leetcode-cn.com/problems/kids-with-the-greatest-number-of-candies) | ★ | 1 | 1 |
 | 2022-03-24 21:46 | [#1512 好数对的数目](https://leetcode-cn.com/problems/number-of-good-pairs) | ★ | 1 | 1 |
-| 2022-03-24 21:21 | [#1672 最富有客户的资产总量](https://leetcode-cn.com/problems/richest-customer-wealth) | ★ | 1 | 1 |
 | 2022-03-24 21:07 | [#2039 网络空闲的时刻](https://leetcode-cn.com/problems/the-time-when-the-network-becomes-idle) | ★★ | 4 | **4** |
 | 2022-03-24 21:06 | [#661 图片平滑器](https://leetcode-cn.com/problems/image-smoother) | ★ | 1 | 1 |
 | 2022-03-23 21:55 | [#771 宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones) | ★ | 1 | 1 |
