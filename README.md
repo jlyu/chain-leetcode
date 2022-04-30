@@ -12,6 +12,40 @@
 
 | 最近提交 | 题目 | 题目难度 | 提交 | 重刷 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2022-04-30 22:35 | [#953 验证外星语词典](https://leetcode-cn.com/problems/verifying-an-alien-dictionary) | ★ | 1 | 1 |
+| 2022-04-30 21:28 | [#2073 买票需要的时间](https://leetcode-cn.com/problems/time-needed-to-buy-tickets) | ★ | 2 | 1 |
+| 2022-04-30 21:15 | [#908 最小差值 I](https://leetcode-cn.com/problems/smallest-range-i) | ★ | 3 | 2 |
+| 2022-04-29 18:47 | [#427 建立四叉树](https://leetcode-cn.com/problems/construct-quad-tree) | ★★ | 1 | 1 |
+| 2022-04-28 23:59 | [#2133 检查是否每一行每一列都包含全部整数](https://leetcode-cn.com/problems/check-if-every-row-and-column-contains-all-numbers) | ★ | 4 | 1 |
+| 2022-04-28 23:40 | [#1560 圆形赛道上经过次数最多的扇区](https://leetcode-cn.com/problems/most-visited-sector-in-a-circular-track) | ★ | 3 | 1 |
+| 2022-04-28 22:56 | [#2210 统计数组中峰和谷的数量](https://leetcode-cn.com/problems/count-hills-and-valleys-in-an-array) | ★ | 1 | 1 |
+| 2022-04-28 22:32 | [#1437 是否所有 1 都至少相隔 k 个元素](https://leetcode-cn.com/problems/check-if-all-1s-are-at-least-length-k-places-away) | ★ | 1 | 1 |
+| 2022-04-28 21:29 | [#905 按奇偶排序数组](https://leetcode-cn.com/problems/sort-array-by-parity) | ★ | 2 | 2 |
+| 2022-04-27 23:47 | [#572 另一棵树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree) | ★ | 2 | 1 |
+| 2022-04-27 22:22 | [#387 字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string) | ★ | 2 | 1 |
+| 2022-04-27 22:06 | [#1455 检查单词是否为句中其他单词的前缀](https://leetcode-cn.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) | ★ | 3 | 1 |
+| 2022-04-27 21:33 | [#392 判断子序列](https://leetcode-cn.com/problems/is-subsequence) | ★ | 2 | 1 |
+| 2022-04-27 21:00 | [#844 比较含退格的字符串](https://leetcode-cn.com/problems/backspace-string-compare) | ★ | 2 | 1 |
+| 2022-04-27 19:39 | [#417 太平洋大西洋水流问题](https://leetcode-cn.com/problems/pacific-atlantic-water-flow) | ★★ | 1 | 1 |
+| 2022-04-26 22:53 | [#290 单词规律](https://leetcode-cn.com/problems/word-pattern) | ★ | 4 | 1 |
+| 2022-04-26 22:31 | [#2243 计算字符串的数字和](https://leetcode-cn.com/problems/calculate-digit-sum-of-a-string) | ★ | 1 | 1 |
+| 2022-04-26 21:25 | [#1030 距离顺序排列矩阵单元格](https://leetcode-cn.com/problems/matrix-cells-in-distance-order) | ★ | 1 | 1 |
+| 2022-04-26 20:08 | [#883 三维形体投影面积](https://leetcode-cn.com/problems/projection-area-of-3d-shapes) | ★ | 3 | 2 |
+| 2022-04-25 20:30 | [#2094 找出 3 位偶数](https://leetcode-cn.com/problems/finding-3-digit-even-numbers) | ★ | 1 | 1 |
+| 2022-04-25 18:16 | [#1903 字符串中的最大奇数](https://leetcode-cn.com/problems/largest-odd-number-in-string) | ★ | 3 | 1 |
+| 2022-04-25 17:14 | [#2248 多个数组求交集](https://leetcode-cn.com/problems/intersection-of-multiple-arrays) | ★ | 1 | 1 |
+| 2022-04-25 16:03 | [#LCP 02 分式化简](https://leetcode-cn.com/problems/deep-dark-fraction) | ★ | 1 | 1 |
+| 2022-04-25 11:59 | [#1022 从根到叶的二进制数之和](https://leetcode-cn.com/problems/sum-of-root-to-leaf-binary-numbers) | ★ | 1 | 1 |
+| 2022-04-25 11:12 | [#398 随机数索引](https://leetcode-cn.com/problems/random-pick-index) | ★★ | 3 | 1 |
+| 2022-04-24 18:07 | [#LCP 55 采集果实](https://leetcode-cn.com/problems/PTXy4P) | ★ | 1 | 1 |
+| 2022-04-24 17:50 | [#868 二进制间距](https://leetcode-cn.com/problems/binary-gap) | ★ | 1 | 1 |
+| 2022-04-23 15:01 | [#587 安装栅栏](https://leetcode-cn.com/problems/erect-the-fence) | ★★★ | 1 | 1 |
+| 2022-04-22 22:43 | [#1408 数组中的字符串匹配](https://leetcode-cn.com/problems/string-matching-in-an-array) | ★ | 3 | 1 |
+| 2022-04-22 21:51 | [#2129 将标题首字母大写](https://leetcode-cn.com/problems/capitalize-the-title) | ★ | 1 | 1 |
+| 2022-04-22 15:54 | [#205 同构字符串](https://leetcode-cn.com/problems/isomorphic-strings) | ★ | 3 | 1 |
+| 2022-04-22 15:14 | [#637 二叉树的层平均值](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree) | ★ | 1 | 1 |
+| 2022-04-22 14:59 | [#257 二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths) | ★ | 2 | 1 |
+| 2022-04-22 12:12 | [#396 旋转函数](https://leetcode-cn.com/problems/rotate-function) | ★★ | 3 | 1 |
 | 2022-04-21 23:19 | [#1184 公交站间的距离](https://leetcode-cn.com/problems/distance-between-bus-stops) | ★ | 2 | 1 |
 | 2022-04-21 23:00 | [#1790 仅执行一次字符串交换能否使两个字符串相等](https://leetcode-cn.com/problems/check-if-one-string-swap-can-make-strings-equal) | ★ | 2 | 1 |
 | 2022-04-21 22:32 | [#1507 转变日期格式](https://leetcode-cn.com/problems/reformat-date) | ★ | 1 | 1 |
@@ -104,11 +138,8 @@
 | 2022-04-07 20:45 | [#310 最小高度树](https://leetcode-cn.com/problems/minimum-height-trees) | ★★ | 13 | 2 |
 | 2022-04-07 20:44 | [#1489 找到最小生成树里的关键边和伪关键边](https://leetcode-cn.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) | ★★★ | 2 | 2 |
 | 2022-04-07 19:49 | [#796 旋转字符串](https://leetcode-cn.com/problems/rotate-string) | ★ | 2 | 1 |
-| 2022-04-06 23:45 | [#883 三维形体投影面积](https://leetcode-cn.com/problems/projection-area-of-3d-shapes) | ★ | 2 | 1 |
 | 2022-04-06 22:37 | [#1217 玩筹码](https://leetcode-cn.com/problems/minimum-cost-to-move-chips-to-the-same-position) | ★ | 1 | 1 |
 | 2022-04-06 21:41 | [#2164 对奇偶下标分别排序](https://leetcode-cn.com/problems/sort-even-and-odd-indices-independently) | ★ | 2 | 1 |
-| 2022-04-06 21:04 | [#908 最小差值 I](https://leetcode-cn.com/problems/smallest-range-i) | ★ | 2 | 1 |
-| 2022-04-06 20:32 | [#905 按奇偶排序数组](https://leetcode-cn.com/problems/sort-array-by-parity) | ★ | 1 | 1 |
 | 2022-04-06 20:24 | [#458 可怜的小猪](https://leetcode-cn.com/problems/poor-pigs) | ★★★ | 2 | 2 |
 | 2022-04-05 23:21 | [#2124 检查是否所有 A 都在 B 之前](https://leetcode-cn.com/problems/check-if-all-as-appears-before-all-bs) | ★ | 1 | 1 |
 | 2022-04-05 16:17 | [#1025 除数博弈](https://leetcode-cn.com/problems/divisor-game) | ★ | 3 | 1 |
